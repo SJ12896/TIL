@@ -14,4 +14,5 @@
 #### 1. 기초 파이썬
 
 1. [실수 연산, 문자열 포맷팅 등](https://github.com/SJ12896/TIL/blob/master/python/0118.md) 
+2. [enumerate, else](https://github.com/SJ12896/TIL/blob/master/python/0119.md) 
 
