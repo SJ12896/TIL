@@ -109,3 +109,10 @@ $ git push origin master
 
 
 
+## 4.Clone & Pull
+
+```bash
+$ git clone url
+$ git pull origin master
+```
+
