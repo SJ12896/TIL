@@ -23,7 +23,7 @@
 
 #### 2. 알고리즘
 
-1. [기초]()
+1. [기초](https://github.com/SJ12896/TIL/blob/master/algorithm/README.md)
 
 
 
