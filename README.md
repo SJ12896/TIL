@@ -18,6 +18,8 @@
 1. [실수 연산, 문자열 포맷팅 등](https://github.com/SJ12896/TIL/blob/master/python/0118.md) 
 2. [enumerate, else](https://github.com/SJ12896/TIL/blob/master/python/0119.md) 
 3. [함수, scope, error](https://github.com/SJ12896/TIL/blob/master/python/0120.md) 
+4. [File Input / Output](https://github.com/SJ12896/TIL/blob/master/python/0122.md) 
+
 
 
 

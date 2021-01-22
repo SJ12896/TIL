@@ -36,6 +36,16 @@ $ git init
 - `.git` 폴더가 생성되면, 이 곳에 git 관련된 정보가 저장된다.
 - git bash에 `(master)`라고 표시된다. 이는 현재 master라는 branch에 있다는 뜻이다. 
 
+#### 2.1.2 그 외 작업
+
+```bash
+$ touch .gitignore
+```
+
+- git으로 관리 안할 파일을 따로 정리하기 위해 만들어준다.
+- ignore파일에서 직접 파일명을 적거나 *.txt처럼 특정 확장자를 전부 관리 안하도록 할 수 있다.
+- gitignore.io 사이트에서 python, visualstudiocode, windows등의 키워드를 입력해서 자동으로 관리 안할 파일을 설정해 주면 편하다.
+
 ### 2.2 `add`
 
 현재 작업 공간(working directory)에서 변경된 사항을 커밋으로 기록하기 위해서는  `staging area`를 거쳐야한다.
