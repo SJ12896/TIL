@@ -20,7 +20,7 @@
 3. [함수, scope, error](https://github.com/SJ12896/TIL/blob/master/python/0120.md) 
 4. [File Input / Output](https://github.com/SJ12896/TIL/blob/master/python/0122.md) 
 5. [데이터 구조별 활용](https://github.com/SJ12896/TIL/blob/master/python/0125.md)
-
+6. [모듈, 패키지](https://github.com/SJ12896/TIL/blob/master/python/0126.md)
 
 
 
