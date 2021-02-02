@@ -26,9 +26,21 @@
 
 
 
+#### 2. web
+
+1. [기초 HTML & CSS](https://github.com/SJ12896/TIL/blob/master/web/0201.md)
+
+
+
 #### 2. 알고리즘
 
 1. [기초](https://github.com/SJ12896/TIL/blob/master/algorithm/README.md)
+
+
+
+### 온라인 강의
+
+1. [파이썬으로 장고(Django) 공략하기: 입문]()
 
 
 
