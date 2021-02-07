@@ -43,7 +43,7 @@
 
 ### 온라인 강의
 
-1. [파이썬으로 장고(Django) 공략하기: 입문]()
+1. [운영체제](https://github.com/SJ12896/TIL/blob/master/online_courses/CS/README.md)
 
 
 
