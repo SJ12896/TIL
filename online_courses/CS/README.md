@@ -8,5 +8,5 @@
 
 
 1. [1주차](https://github.com/SJ12896/TIL/blob/master/online_courses/CS/1.md) : 서론, 역사, 고등운영체제, 인터럽트 기본 운영체제
-
 2. [2주차](https://github.com/SJ12896/TIL/blob/master/online_courses/CS/2.md) : 이중모드, 하드웨어 보호, 운영체제 서비스, 프로세스 관리
+3. [3주차](https://github.com/SJ12896/TIL/blob/master/online_courses/CS/3.md) : CPU 스케줄링 알고리즘
