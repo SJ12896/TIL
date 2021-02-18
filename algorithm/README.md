@@ -17,12 +17,13 @@
 11. [4839_이진탐색](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4839.md)
 12. [4843_특별한정렬](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4843.md)
 13. [1979_어디에 단어가 들어갈 수 있을까](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1979.md)
-14. [2001_파리퇴치](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/2001md)
-15. [1210_Ladder1](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1210md)
-16. [1221_GNS](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1221md)
-17. [1928_Base64 Decoder](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1928md)
-
-
+14. [2001_파리퇴치](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/2001.md)
+15. [1210_Ladder1](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1210.md)
+16. [1221_GNS](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1221.md)
+17. [1928_Base64 Decoder](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1928.md)
+18. [1216_회문2](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1216.md)
+19. [5432_쇠막대기 자르기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5432.md)
+20. [4861_회문](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4861.md)
 
 
 
@@ -38,9 +39,13 @@
 8. [1094_막대기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1094.md)
 9. [10610_30](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/10610.md)
 10. [11723_집합](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11723.md)
+11. [2563_색종이](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2563.md)
+12. [1789_수들의 합](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1789.md)
+13. [9655_돌 게임](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/9655.md)
 
 
 
 ### 이론
 
 1. [배열과 정렬](https://github.com/SJ12896/TIL/blob/master/algorithm/0208.md)
+2. [문자열, 패턴 매칭](https://github.com/SJ12896/TIL/blob/master/algorithm/0217.md)
