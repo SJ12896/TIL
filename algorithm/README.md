@@ -27,6 +27,18 @@
 21. [5356_의석이의 세로로 말해요](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5356.md) 
 22. [1215_회문1](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1215.md) 
 23. [4047_영준이의 카드 카운팅](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4047.md) 
+24. [11315_오목 판정](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/11315.md) 😥
+25. [1289_원재의 메모리 복구하기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1289.md)
+26. [3499_퍼펙트 셔플](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1289.md)
+27. [1961_숫자 배열 회전](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1289.md)
+28. [2805_농작물 수확하기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/2805.md) 😥
+29. [1974_스도쿠 검증](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1974.md)
+30. [1859_백만 장자 프로젝트](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1859.md)
+31. [2007_패턴 마디의 길이](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/2007.md)
+32. [2005_파스칼의 삼각형](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/2005.md)
+33. [1984_중간 평균값 구하기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1984.md)
+34. [1926_간단한 369 게임](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1926.md)
+35. [1983_조교의 성적 매기기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1983.md)
 
 
 
