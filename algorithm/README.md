@@ -40,7 +40,7 @@
 34. [1926_간단한 369 게임](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1926.md)
 35. [1983_조교의 성적 매기기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1983.md)
 36. [11387_몬스터 사냥](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/11387.md)
-37. [10965_제곱수 만들기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/10964.md) 😥 🤮
+37. [10965_제곱수 만들기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/10965.md) 😥 🤮
 38. [10912_외로운 문자](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/10912.md)
 
 
@@ -70,6 +70,7 @@
 17. [10828_스택](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/10828.md) 
 18. [10163_색종이](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/10163.md) 
 19. [2477_참외밭](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2477.md) 
+20. [1874_스택 수열](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1874.md) 
 
 
 
