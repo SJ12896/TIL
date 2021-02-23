@@ -42,6 +42,13 @@
 36. [11387_몬스터 사냥](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/11387.md)
 37. [10965_제곱수 만들기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/10965.md) 😥 🤮
 38. [10912_외로운 문자](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/10912.md)
+39. [4871_그래프 경로](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4871.md)
+40. [4866_괄호검사](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4866.md)
+41. [4873_반복문자 지우기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4873.md)
+42. [4869_종이 붙이기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4869.md) 😥
+43. [1219_길찾기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1219.md)
+44. [1218_괄호 짝짓기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1218.md)
+45. [1234_비밀번호](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1234.md)
 
 
 
@@ -71,6 +78,14 @@
 18. [10163_색종이](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/10163.md) 
 19. [2477_참외밭](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2477.md) 
 20. [1874_스택 수열](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1874.md) 
+21. [2606_바이러스](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2606.md) 
+
+
+
+### JUNGOL
+
+1. [1037_오류교정](https://github.com/SJ12896/TIL/blob/master/algorithm/jungol/1037.md) 
+2. [1105_조커](https://github.com/SJ12896/TIL/blob/master/algorithm/jungol/1205.md)  😥 🤮
 
 
 
@@ -80,3 +95,4 @@
 
 1. [배열과 정렬](https://github.com/SJ12896/TIL/blob/master/algorithm/0208.md)
 2. [문자열, 패턴 매칭](https://github.com/SJ12896/TIL/blob/master/algorithm/0217.md)
+3. [스택, memoization, DP, DFS](https://github.com/SJ12896/TIL/blob/master/algorithm/0222.md)
