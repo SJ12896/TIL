@@ -13,3 +13,4 @@
 4. [4주차](https://github.com/SJ12896/TIL/blob/master/online_courses/CS/4.md) : 프로세스 동기화, 임계구역 문제
 5. [5주차](https://github.com/SJ12896/TIL/blob/master/online_courses/CS/5.md) : 세마포, 생산자-소비자 문제, 기타 전통적 동기화 문제
 6. [6주차](https://github.com/SJ12896/TIL/blob/master/online_courses/CS/6.md) : 교착상태, 모니터
+7. [7주차](https://github.com/SJ12896/TIL/blob/master/online_courses/CS/7.md) : 주기억장치 관리, 메모리 절약, 연속 메모리 할당

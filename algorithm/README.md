@@ -49,6 +49,8 @@
 43. [1219_길찾기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1219.md)
 44. [1218_괄호 짝짓기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1218.md)
 45. [1234_비밀번호](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1234.md)
+46. [4615_재미있는 오셀로 게임](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4615.md) 😥
+47. [1860_진기의 최고급 붕어빵](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1860.md) 😥
 
 
 
