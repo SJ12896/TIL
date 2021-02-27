@@ -4,9 +4,6 @@
 
 ### SW Expert
 
-1. [자릿수 더하기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1.md)
-2. [이차원 리스트 초기화](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/2.md)
-3. [module - random](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/3.md)
 4. [Baby-gin game](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/Bayby-gin%20Game.md)
 5. [전기버스](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/%EC%A0%84%EA%B8%B0%EB%B2%84%EC%8A%A4.md) 😥
 6. [1010](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1010.md)
@@ -30,10 +27,10 @@
 24. [11315_오목 판정](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/11315.md) 😥
 25. [1289_원재의 메모리 복구하기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1289.md)
 26. [3499_퍼펙트 셔플](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1289.md)
-27. [1961_숫자 배열 회전](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1289.md)
+27. [1961_숫자 배열 회전](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1961.md)
 28. [2805_농작물 수확하기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/2805.md) 😥
 29. [1974_스도쿠 검증](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1974.md)
-30. [1859_백만 장자 프로젝트](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1859.md)
+30. [1859_백만 장자 프로젝트](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1859.md) 😥
 31. [2007_패턴 마디의 길이](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/2007.md)
 32. [2005_파스칼의 삼각형](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/2005.md)
 33. [1984_중간 평균값 구하기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1984.md)
@@ -51,8 +48,7 @@
 45. [1234_비밀번호](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1234.md)
 46. [4615_재미있는 오셀로 게임](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4615.md) 😥
 47. [1860_진기의 최고급 붕어빵](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1860.md) 😥
-
-
+45. [4408_자기 방으로 돌아가기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4408.md) 😥
 
 
 
@@ -66,11 +62,11 @@
 4. [1158_요세푸스 문제](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1158.md)
 5. [7568_덩치](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/7568.md)
 6. [1475_방 번호](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1475.md)
-7. [1476_영화감독 숌](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1476.md)
+7. [1476_영화감독 숌](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1476.md) 
 8. [1094_막대기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1094.md)
-9. [10610_30](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/10610.md)
+9. [10610_30](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/10610.md) 😥
 10. [11723_집합](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11723.md)
-11. [2563_색종이](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2563.md)
+11. [2563_색종이](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2563.md) 😥
 12. [1789_수들의 합](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1789.md)
 13. [9655_돌 게임](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/9655.md)
 14. [2822_점수 계산](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2822.md)
@@ -78,9 +74,13 @@
 16. [1065_한수](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1065.md) 
 17. [10828_스택](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/10828.md) 
 18. [10163_색종이](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/10163.md) 
-19. [2477_참외밭](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2477.md) 
+19. [2477_참외밭](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2477.md) 😥
 20. [1874_스택 수열](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1874.md) 
 21. [2606_바이러스](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2606.md) 
+22. [2667_단지번호붙이기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2667.md) 
+23. [1012_유기농 배추](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1012.md) 
+24. [11724_연결 요소의 개수](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11724.md) 
+25. [2839_설탕배달](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2839.md)  😥
 
 
 
