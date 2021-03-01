@@ -81,6 +81,9 @@
 23. [1012_유기농 배추](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1012.md) 
 24. [11724_연결 요소의 개수](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11724.md) 
 25. [2839_설탕배달](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2839.md)  😥
+26. [9663_N-Queen](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/9663.md)  😥 🤮
+27. [4963_섬의 개수](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/4963.md) 
+28. [2468_안전 영역](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2468.md) 
 
 
 
