@@ -49,6 +49,11 @@
 46. [4615_재미있는 오셀로 게임](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4615.md) 😥
 47. [1860_진기의 최고급 붕어빵](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1860.md) 😥
 45. [4408_자기 방으로 돌아가기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4408.md) 😥
+49. [1224_계산기3](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1224.md) 
+50. [4874_Forth](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4874.md) 
+51. [4875_미로](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4875.md) 
+52. [4880_토너먼트 카드게임](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4880.md) 
+53. [4881_배열 최소 합](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4881.md) 😥
 
 
 
@@ -81,9 +86,12 @@
 23. [1012_유기농 배추](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1012.md) 
 24. [11724_연결 요소의 개수](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11724.md) 
 25. [2839_설탕배달](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2839.md)  😥
-26. [9663_N-Queen](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/9663.md)  😥 🤮
+26. [9663_N-Queen](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/9663.md)  😥 
 27. [4963_섬의 개수](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/4963.md) 
 28. [2468_안전 영역](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2468.md) 
+29. [2583_영역 구하기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2583.md) 
+30. [1987_알파벳](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1987.md) 😥 
+31. [10026_적록색약](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/10026.md) 😥 
 
 
 
