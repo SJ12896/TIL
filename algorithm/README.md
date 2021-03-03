@@ -4,56 +4,57 @@
 
 ### SW Expert
 
-4. [Baby-gin game](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/Bayby-gin%20Game.md)
-5. [전기버스](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/%EC%A0%84%EA%B8%B0%EB%B2%84%EC%8A%A4.md) 😥
-6. [1010](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1010.md)
-7. [구간합](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4835.md)
-8. [1954_달팽이 숫자](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1954.md) 😥
-9. [4837_부분집합의 합](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4837.md)
-10. [4836_색칠하기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4836.md)
-11. [4839_이진탐색](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4839.md)
-12. [4843_특별한정렬](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4843.md)
-13. [1979_어디에 단어가 들어갈 수 있을까](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1979.md) 😥
-14. [2001_파리퇴치](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/2001.md)
-15. [1210_Ladder1](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1210.md)
-16. [1221_GNS](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1221.md)
-17. [1928_Base64 Decoder](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1928.md) 😥
-18. [1216_회문2](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1216.md) 😥
-19. [5432_쇠막대기 자르기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5432.md) 😥
-20. [4861_회문](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4861.md) 😥
-21. [5356_의석이의 세로로 말해요](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5356.md) 
-22. [1215_회문1](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1215.md) 
-23. [4047_영준이의 카드 카운팅](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4047.md) 
-24. [11315_오목 판정](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/11315.md) 😥
-25. [1289_원재의 메모리 복구하기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1289.md)
-26. [3499_퍼펙트 셔플](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1289.md)
-27. [1961_숫자 배열 회전](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1961.md)
-28. [2805_농작물 수확하기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/2805.md) 😥
-29. [1974_스도쿠 검증](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1974.md)
-30. [1859_백만 장자 프로젝트](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1859.md) 😥
-31. [2007_패턴 마디의 길이](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/2007.md)
-32. [2005_파스칼의 삼각형](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/2005.md)
-33. [1984_중간 평균값 구하기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1984.md)
-34. [1926_간단한 369 게임](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1926.md)
-35. [1983_조교의 성적 매기기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1983.md)
-36. [11387_몬스터 사냥](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/11387.md)
-37. [10965_제곱수 만들기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/10965.md) 😥 🤮
-38. [10912_외로운 문자](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/10912.md)
-39. [4871_그래프 경로](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4871.md)
-40. [4866_괄호검사](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4866.md)
-41. [4873_반복문자 지우기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4873.md)
-42. [4869_종이 붙이기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4869.md) 😥
-43. [1219_길찾기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1219.md)
-44. [1218_괄호 짝짓기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1218.md)
-45. [1234_비밀번호](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1234.md)
-46. [4615_재미있는 오셀로 게임](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4615.md) 😥
-47. [1860_진기의 최고급 붕어빵](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1860.md) 😥
+1. [Baby-gin game](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/Bayby-gin%20Game.md)
+2. [전기버스](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/%EC%A0%84%EA%B8%B0%EB%B2%84%EC%8A%A4.md) 😥
+3. [1010](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1010.md)
+4. [구간합](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4835.md)
+5. [1954_달팽이 숫자](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1954.md) 😥
+6. [4837_부분집합의 합](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4837.md)
+7. [4836_색칠하기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4836.md)
+8. [4839_이진탐색](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4839.md)
+9. [4843_특별한정렬](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4843.md)
+10. [1979_어디에 단어가 들어갈 수 있을까](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1979.md) 😥
+11. [2001_파리퇴치](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/2001.md)
+12. [1210_Ladder1](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1210.md)
+13. [1221_GNS](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1221.md)
+14. [1928_Base64 Decoder](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1928.md) 😥
+15. [1216_회문2](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1216.md) 😥
+16. [5432_쇠막대기 자르기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5432.md) 😥
+17. [4861_회문](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4861.md) 😥
+18. [5356_의석이의 세로로 말해요](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5356.md) 
+19. [1215_회문1](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1215.md) 
+20. [4047_영준이의 카드 카운팅](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4047.md) 
+21. [11315_오목 판정](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/11315.md) 😥
+22. [1289_원재의 메모리 복구하기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1289.md)
+23. [3499_퍼펙트 셔플](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1289.md)
+24. [1961_숫자 배열 회전](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1961.md)
+25. [2805_농작물 수확하기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/2805.md) 😥
+26. [1974_스도쿠 검증](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1974.md)
+27. [1859_백만 장자 프로젝트](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1859.md) 😥
+28. [2007_패턴 마디의 길이](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/2007.md)
+29. [2005_파스칼의 삼각형](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/2005.md)
+30. [1984_중간 평균값 구하기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1984.md)
+31. [1926_간단한 369 게임](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1926.md)
+32. [1983_조교의 성적 매기기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1983.md)
+33. [11387_몬스터 사냥](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/11387.md)
+34. [10965_제곱수 만들기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/10965.md) 😥 🤮
+35. [10912_외로운 문자](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/10912.md)
+36. [4871_그래프 경로](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4871.md)
+37. [4866_괄호검사](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4866.md)
+38. [4873_반복문자 지우기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4873.md)
+39. [4869_종이 붙이기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4869.md) 😥
+40. [1219_길찾기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1219.md)
+41. [1218_괄호 짝짓기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1218.md)
+42. [1234_비밀번호](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1234.md)
+43. [4615_재미있는 오셀로 게임](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4615.md) 😥
+44. [1860_진기의 최고급 붕어빵](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1860.md) 😥
 45. [4408_자기 방으로 돌아가기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4408.md) 😥
-49. [1224_계산기3](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1224.md) 
-50. [4874_Forth](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4874.md) 
-51. [4875_미로](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4875.md) 
-52. [4880_토너먼트 카드게임](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4880.md) 
-53. [4881_배열 최소 합](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4881.md) 😥
+46. [1224_계산기3](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1224.md) 
+47. [4874_Forth](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4874.md) 
+48. [4875_미로](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4875.md) 
+49. [4880_토너먼트 카드게임](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4880.md) 
+50. [4881_배열 최소 합](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4881.md) 😥
+51. [1225_암호생성기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1225.md) 
 
 
 
@@ -92,6 +93,12 @@
 29. [2583_영역 구하기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2583.md) 
 30. [1987_알파벳](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1987.md) 😥 
 31. [10026_적록색약](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/10026.md) 😥 
+32. [2644_촌수계산](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2644.md) 😥 
+33. [2573_빙산](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2573.md) 
+34. [1260_DFS와 BFS](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2573.md)
+35. [2178_미로 탐색](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2178.md) 😥 
+
+
 
 
 
@@ -109,3 +116,4 @@
 1. [배열과 정렬](https://github.com/SJ12896/TIL/blob/master/algorithm/0208.md)
 2. [문자열, 패턴 매칭](https://github.com/SJ12896/TIL/blob/master/algorithm/0217.md)
 3. [스택, memoization, DP, DFS](https://github.com/SJ12896/TIL/blob/master/algorithm/0222.md)
+4. [큐, BFS, 버퍼, 최단 경로](https://github.com/SJ12896/TIL/blob/master/algorithm/0303.md)
