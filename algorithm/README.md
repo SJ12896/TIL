@@ -55,6 +55,10 @@
 49. [4880_토너먼트 카드게임](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4880.md) 
 50. [4881_배열 최소 합](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4881.md) 😥
 51. [1225_암호생성기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1225.md) 
+52. [5099_피자굽기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5099.md) 
+53. [5105_미로의 거리](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5105.md) 
+54. [5102_노드의 거리](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5102.md) 
+55. [1226_미로1](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1226.md) 
 
 
 
@@ -97,6 +101,7 @@
 33. [2573_빙산](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2573.md) 
 34. [1260_DFS와 BFS](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2573.md)
 35. [2178_미로 탐색](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2178.md) 😥 
+36. [7576_토마토](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/7576.md) 
 
 
 
