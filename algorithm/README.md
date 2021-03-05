@@ -59,6 +59,9 @@
 53. [5105_미로의 거리](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5105.md) 
 54. [5102_노드의 거리](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5102.md) 
 55. [1226_미로1](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1226.md) 
+56. [1258_행렬찾기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1258.md) 
+57. [4613_러시아 국기 같은 깃발](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4613.md) 😥
+58. [5215_햄버거 다이어트](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5215.md) 
 
 
 
@@ -91,7 +94,7 @@
 23. [1012_유기농 배추](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1012.md) 
 24. [11724_연결 요소의 개수](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11724.md) 
 25. [2839_설탕배달](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2839.md)  😥
-26. [9663_N-Queen](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/9663.md)  😥 
+26. [9663_N-Queen](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/9663.md)  😥 🤮
 27. [4963_섬의 개수](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/4963.md) 
 28. [2468_안전 영역](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2468.md) 
 29. [2583_영역 구하기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2583.md) 
@@ -102,6 +105,8 @@
 34. [1260_DFS와 BFS](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2573.md)
 35. [2178_미로 탐색](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2178.md) 😥 
 36. [7576_토마토](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/7576.md) 
+37. [2798_블랙잭](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2798.md) 
+38. [1937_욕심쟁이 판다](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1937.md)  😥 🤮
 
 
 
