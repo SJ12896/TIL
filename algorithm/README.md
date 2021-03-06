@@ -107,6 +107,7 @@
 36. [7576_토마토](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/7576.md) 
 37. [2798_블랙잭](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2798.md) 
 38. [1937_욕심쟁이 판다](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1937.md)  😥 🤮
+39. [5014_스타트링크](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/5014.md)  😥
 
 
 
