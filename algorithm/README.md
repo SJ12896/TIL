@@ -108,6 +108,9 @@
 37. [2798_블랙잭](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2798.md) 
 38. [1937_욕심쟁이 판다](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1937.md)  😥 🤮
 39. [5014_스타트링크](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/5014.md)  😥
+40. [2589_보물섬](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2589.md) 
+41. [2630_색종이 만들기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2630.md) 
+42. [3986_좋은 단어](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/3986.md) 
 
 
 

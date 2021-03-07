@@ -17,3 +17,4 @@
 8. [8주차](https://github.com/SJ12896/TIL/blob/master/online_courses/CS/8.md) : 페이징, 세그멘테이션, 가상메모리
 9. [9주차](https://github.com/SJ12896/TIL/blob/master/online_courses/CS/9.md) : 요구 페이징, 페이지 교체, 페이지 교체 알고리즘
 10. [10주차](https://github.com/SJ12896/TIL/blob/master/online_courses/CS/10.md) : 프레임 할당, 파일 할당
+11. [11주차](https://github.com/SJ12896/TIL/blob/master/online_courses/CS/11.md) : 디스크 스케쥴링
