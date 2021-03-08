@@ -62,6 +62,8 @@
 56. [1258_행렬찾기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1258.md) 
 57. [4613_러시아 국기 같은 깃발](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4613.md) 😥
 58. [5215_햄버거 다이어트](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5215.md) 
+59. [1249_보급로](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1249.md) 
+60. [2819_격자판의 숫자 이어 붙이기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/2819.md) 😥
 
 
 
