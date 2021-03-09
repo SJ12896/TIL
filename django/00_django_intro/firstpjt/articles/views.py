@@ -5,7 +5,7 @@ from django.shortcuts import render
 # Create your views here.
 
 def index(request):
-    return render(request, 'index.html')
+    return render(request, 'articles/index.html')
 
 
 def greeting(request):
@@ -16,7 +16,7 @@ def greeting(request):
     context = {
         'info' : info,
         'foods': foods,}
-    return render(request, 'greeting.html', context)
+    return render(request, 'articles/greeting.html', context)
 
 
 def dinner(request):
@@ -28,11 +28,11 @@ def dinner(request):
         'foods': foods,
         'today': today,
     }
-    return render(request, 'dinner.html', context)
+    return render(request, 'articles/dinner.html', context)
 
 
 def throw(request):
-    return render(request, 'throw.html')
+    return render(request, 'articles/throw.html')
 
 
 def catch(request):
@@ -40,11 +40,34 @@ def catch(request):
     context = {
         'message' : message,
     }
-    return render(request, 'catch.html', context)
+    return render(request, 'articles/catch.html', context)
 
 
 def hello(request, name):
     context={
         'name' : name,
     }
-    return render(request, 'hello.html', context)
+    return render(request, 'articles/hello.html', context)
+
+
+def dtl_practice(request):
+    fruits = [
+        'mango',
+        'blueberry',
+        'coconut',
+        'kiwi',
+        'melon',
+    ]
+    foods = [
+        'pizza',
+        'sushi',
+        'pork belly',
+        'spaghetti',
+    ]
+    user_list = []
+    context = {
+        'fruits' : fruits,
+        'foods' : foods,
+        'user_list' : user_list,
+    }
+    return render(request, 'articles/dtl_practice.html', context)

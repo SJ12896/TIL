@@ -35,6 +35,12 @@
 
 
 
+#### 3. django
+
+1. [기초 django](https://github.com/SJ12896/TIL/blob/master/django/0308.md)
+
+
+
 #### 2. 알고리즘
 
 1. [기초](https://github.com/SJ12896/TIL/blob/master/algorithm/README.md)
