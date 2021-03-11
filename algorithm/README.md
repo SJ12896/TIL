@@ -66,6 +66,7 @@
 60. [2819_격자판의 숫자 이어 붙이기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/2819.md) 😥
 61. [5684_운동](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5684.md) 😥
 62. [1861_정사각형 방](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1861.md) 
+63. [1953_탈주범 검거](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1953.md) 😥
 
 
 

@@ -37,7 +37,8 @@
 
 #### 3. django
 
-1. [기초 django](https://github.com/SJ12896/TIL/blob/master/django/0308.md)
+1. [기초 django](https://github.com/SJ12896/TIL/blob/master/django/0308.md) : urls, views, templates, DTL 등
+2. [기초 django2](https://github.com/SJ12896/TIL/blob/master/django/0310.md) : model, ORM, Migrations, Database API, CRUD 등
 
 
 
