@@ -90,6 +90,8 @@ $ git log --oneline
 
 ### 3.2 원격 저장소 등록
 
+- git remote : 원격 저장소 관리 명령어, origin이라는 이름으로 주소를 등록한다.(다른 이름 가능). origin이라는 원격 저장소를 지우고 싶다면 git remote remove origin
+
 ```bash
 $ git remote add origin (github url)
 
@@ -122,7 +124,7 @@ $ git push origin master
 ## 4.Clone & Pull
 
 ```bash
-$ git clone url
-$ git pull origin master
+$ git clone url # 클라이언트 상에 아무것도 없을 때 서버의 프로젝트를 내려받는 명령어. 저장소 내용을 다운받고 자동으로 init 된다.
+$ git pull origin master # 다른 사람이 코드를 업데이트 했거나 commit했을 때 클라이언트로 내려받는 명령어
 ```
 

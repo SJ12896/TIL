@@ -55,7 +55,7 @@
 49. [4880_토너먼트 카드게임](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4880.md) 
 50. [4881_배열 최소 합](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4881.md) 😥
 51. [1225_암호생성기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1225.md) 
-52. [5099_피자굽기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5099.md) 
+52. [5099_피자굽기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5099.md) 🤔
 53. [5105_미로의 거리](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5105.md) 
 54. [5102_노드의 거리](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5102.md) 
 55. [1226_미로1](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1226.md) 
@@ -67,6 +67,8 @@
 61. [5684_운동](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5684.md) 😥
 62. [1861_정사각형 방](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1861.md) 
 63. [1953_탈주범 검거](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1953.md) 😥
+64. [10966_물놀이를 가자](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/10966.md) 🤔
+65. [4012_요리사](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4012.md) 🤔
 
 
 
@@ -96,7 +98,7 @@
 20. [1874_스택 수열](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1874.md) 
 21. [2606_바이러스](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2606.md) 
 22. [2667_단지번호붙이기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2667.md) 
-23. [1012_유기농 배추](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1012.md) 
+23. [1012_유기농 배추](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1012.md) 🤔
 24. [11724_연결 요소의 개수](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11724.md) 
 25. [2839_설탕배달](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2839.md)  😥
 26. [9663_N-Queen](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/9663.md)  😥 🤮
