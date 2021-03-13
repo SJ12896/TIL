@@ -119,6 +119,9 @@
 41. [2630_색종이 만들기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2630.md) 
 42. [3986_좋은 단어](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/3986.md) 
 43. [11404_플로이드](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11404.md) 
+44. [2668_숫자고르기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2668.md) 
+45. [14501_퇴사](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/14501.md) 
+46. [2446_별 찍기 - 9](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2446.md) 
 
 
 
