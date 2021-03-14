@@ -1,4 +1,4 @@
-## 영리한 프로그래밍을 위한 알고리즘 강좌
+### 영리한 프로그래밍을 위한 알고리즘 강좌
 
 섹션 2. [순환](https://github.com/SJ12896/TIL/blob/master/online_courses/Algorithm/1.md)
 
@@ -6,6 +6,12 @@
 
 
 
-## 파이썬으로 배우는 알고리즘 기초
+### 파이썬으로 배우는 알고리즘 기초
 
 [동적계획법과 최단 경로](https://github.com/SJ12896/TIL/blob/master/online_courses/Algorithm/9.md)
+
+
+
+### 프리렉 알고리즘 퍼즐69
+
+[전체탐색 기본 문제](https://github.com/SJ12896/TIL/blob/master/online_courses/Algorithm/recursion.md)
