@@ -122,6 +122,10 @@
 44. [2668_숫자고르기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2668.md) 
 45. [14501_퇴사](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/14501.md) 
 46. [2446_별 찍기 - 9](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2446.md) 
+47. [5635_생일](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/5635.md) 
+48. [1978_소수 찾기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1978.md) 
+49. [2581_소수](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2581.md) 
+50. [1292_쉽게 푸는 문제](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1292.md) 🤔
 
 
 
