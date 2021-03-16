@@ -126,6 +126,10 @@
 48. [1978_소수 찾기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1978.md) 
 49. [2581_소수](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2581.md) 
 50. [1292_쉽게 푸는 문제](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1292.md) 🤔
+51. [7569_토마토](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/7569.md) 
+52. [1697_숨바꼭질](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1697.md) 
+53. [7562_나이트의 이동](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/7562.md) 
+54. [2206_벽 부수고 이동하기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2206.md) 
 
 
 

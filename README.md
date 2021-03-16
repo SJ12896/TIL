@@ -39,6 +39,8 @@
 
 1. [기초 django](https://github.com/SJ12896/TIL/blob/master/django/0308.md) : urls, views, templates, DTL 등
 2. [기초 django2](https://github.com/SJ12896/TIL/blob/master/django/0310.md) : model, ORM, Migrations, Database API, CRUD 등
+3. [기초 django3](https://github.com/SJ12896/TIL/blob/master/django/0312.md) : 가상환경, 모델의 초기 데이터 제공
+4. [기초 django3](https://github.com/SJ12896/TIL/blob/master/django/0316.md) : form, modelform, widget, 데이터 유효성 검사 등
 
 
 

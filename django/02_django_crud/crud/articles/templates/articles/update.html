@@ -4,10 +4,7 @@
 
 <form action="{% url 'articles:update' article.pk %}" method='POST'>
 {% csrf_token %}
-<label for="title"> 제목 </label>
-<input type="text" name = 'title' value={{ article.title }}>
-<label for="content"> 내용 </label>
-<input type="text" name="content" value={{ article.content }}>
+{{ form.as_p }}
 {% comment %} textarea는 value가 없어서 태그 사이에 넣어줘야한다. {% endcomment %}
 <input type="submit" value='수정'>
 
