@@ -130,6 +130,7 @@
 52. [1697_숨바꼭질](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1697.md) 
 53. [7562_나이트의 이동](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/7562.md) 
 54. [2206_벽 부수고 이동하기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2206.md) 
+55. [16956_늑대와 양](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/16956.md) 
 
 
 

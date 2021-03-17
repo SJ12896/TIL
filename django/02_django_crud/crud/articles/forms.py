@@ -20,42 +20,33 @@ from .models import Article
 #     # region = forms.ChoiceField(choices=REGIONS_CHOICES, widget=forms.RadioSelect)
 
 class ArticleForm(forms.ModelForm):
-    # # 이미 있는 필드를 재정의해서 커스터마이징하기
-    # title = forms.CharField(
-    #     # label='제목',
-    #     widget=forms.TextInput(
-    #         attrs={
-    #             'class' : 'my-title',
-    #             'placeholder' : '제목을 입력해주세요.',
-    #         }
-    #     ),
-    #     # error_messages={
-    #     #     'required': '장난치지 말랬지 입력해라...'
-    #     # }
-    # )
+    # 이미 있는 필드를 재정의해서 커스터마이징하기
+    title = forms.CharField(
+        label='제목',
+        widget=forms.TextInput(
+            attrs={
+                'class' : 'my-title form-control',
+                'placeholder' : '제목을 입력해주세요.',
+            }
+        ),
+        error_messages={
+            'required': '장난치지 말랬지 입력해라...'
+        }
+    )
 
-    # content = forms.CharField(
-    #     # label='내용',
-    #     widget=forms.Textarea(
-    #         attrs={
-    #             'rows': 5,
-    #             'cols' : 20,
-    #             'placeholder' : '내용을 입력해주세요.',
-    #             'class' : 'my-content',
-    #         }
-    #     )
-    # )
+    content = forms.CharField(
+        label='내용',
+        widget=forms.Textarea(
+            attrs={
+                'rows': 5,
+                'cols' : 20,
+                'placeholder' : '내용을 입력해주세요.',
+                'class' : 'my-content form-control',
+            }
+        )
+    )
     
     class Meta:
         model = Article
         fields = '__all__'
-        labels = {
-        'title' : '제목',
-        'content' : '내용',
-        }
-        error_messages = {
-            'title': {
-                'required' : '장난 ㄴ'
-            }
-        }
         # exclude= ('title',)

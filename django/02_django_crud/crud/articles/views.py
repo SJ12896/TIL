@@ -1,8 +1,10 @@
 from django.shortcuts import render, redirect
+from django.views.decorators.http import require_safe, require_http_methods, require_POST
 from .models import Article
 from .forms import ArticleForm
 
 # Create your views here.
+@require_safe
 def index(request):
     # 모든 게시글 조회, 변수명은 꼭 복수로. 전체를 조회했으니까
     #articles = Article.objects.all()[::-1]
@@ -13,15 +15,9 @@ def index(request):
     return render(request, 'articles/index.html', context)
 
 
-# def new(request):
-#     form = ArticleForm()
-#     context = {
-#         'form' : form,
-#     }
-#     return render(request, 'articles/new.html', context)
-
-
+# 하나의 view 함수가 request의 method에 따라 2가지 역할을 하게 됨
 # 사용자가 django form에서 데이터를 입력하고 submit해서 데이터가 넘어온 상태 가정
+@require_http_methods(['GET', 'POST'])
 def create(request):
     # title = request.POST.get('title')
     # content = request.POST.get('content')
@@ -32,26 +28,15 @@ def create(request):
     1) GET : 비어있는 ModelForm을 던진다.
     2) POST : 데이터를 받아서 DB에 저장한다.'''
 
-    # if request.method == 'POST':
-    #     form = ArticleForm(request.POST)
-    #     if form.is_valid():
-    #         article = form.save()
-    #         return redirect('articles:detail', article.pk)
-    # else:
-    #     form = ArticleForm()
-        
-    # context = {
-    #     'form': form,
-    # }
-    # return render(request, 'articles/create.html', context)
-
-    if request.method == 'GET':
-        form = ArticleForm()
-    else:
+    # POST일 때
+    if request.method == 'POST':
         form = ArticleForm(request.POST)
         if form.is_valid():
             article = form.save()
             return redirect('articles:detail', article.pk)
+    # GET일 때
+    else:
+        form = ArticleForm()
         
     context = {
         'form': form,
@@ -69,8 +54,9 @@ def create(request):
 
     # # 유효성 검사에서 탈락했을 때
     # return redirect('articles:new')
-        
 
+
+@require_safe
 def detail(request, pk):
     article = Article.objects.get(pk=pk)
     context = {
@@ -79,23 +65,14 @@ def detail(request, pk):
     return render(request, 'articles/detail.html', context)
 
 
+@require_POST
 def delete(request, pk):
     article = Article.objects.get(pk=pk)
-    if request.method == 'POST':
-        article.delete()
-        return redirect('articles:index')
-    else:
-        return redirect('articles:detail', article.pk)
+    article.delete()
+    return redirect('articles:index')
 
 
-# def edit(request, pk):
-#     article = Article.objects.get(pk=pk)
-#     context = {
-#         'article' : article,
-#     }
-#     return render(request, 'articles/edit.html', context)
-
-
+@require_http_methods(['GET', 'POST'])
 def update(request, pk):
     # 수정할 Article 인스턴스 가져오기
     article = Article.objects.get(pk=pk)

@@ -1,4 +1,5 @@
 {% extends 'base.html' %}
+{% load bootstrap5 %}
 
 {% block content %}
 
@@ -6,6 +7,10 @@
 {% csrf_token %}
 {{ form.as_p }}
 {% comment %} textarea는 value가 없어서 태그 사이에 넣어줘야한다. {% endcomment %}
+
+{% bootstrap_form form layout='horizontal' %}
+    {% buttons submit='OK' reset="Cancel" %}{% endbuttons %}
+    
 <input type="submit" value='수정'>
 
 </form>
