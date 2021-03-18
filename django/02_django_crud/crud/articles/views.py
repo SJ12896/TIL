@@ -30,7 +30,7 @@ def create(request):
 
     # POST일 때
     if request.method == 'POST':
-        form = ArticleForm(request.POST)
+        form = ArticleForm(request.POST, request.FILES)
         if form.is_valid():
             article = form.save()
             return redirect('articles:detail', article.pk)
@@ -79,7 +79,7 @@ def update(request, pk):
 
     if request.method == 'POST':
         # 수정할 데이터와 수정 대상 인스턴스를 건네준다.
-        form = ArticleForm(request.POST, instance=article)
+        form = ArticleForm(request.POST, request.FILES, instance=article)
         if form.is_valid():
             # db에 반영한다. (인스턴스를 받았기 때문에 update
             article = form.save()
