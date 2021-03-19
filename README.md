@@ -41,6 +41,8 @@
 2. [기초 django2](https://github.com/SJ12896/TIL/blob/master/django/0310.md) : model, ORM, Migrations, Database API, CRUD 등
 3. [기초 django3](https://github.com/SJ12896/TIL/blob/master/django/0312.md) : 가상환경, 모델의 초기 데이터 제공
 4. [기초 django3](https://github.com/SJ12896/TIL/blob/master/django/0316.md) : form, modelform, widget, 데이터 유효성 검사 등
+5. [기초 django4](https://github.com/SJ12896/TIL/blob/master/django/0318.md) : static files, media files 등
+6. [기초 django5](https://github.com/SJ12896/TIL/blob/master/django/0319md) : Imagekit, form.html, get_object_or_404
 
 
 

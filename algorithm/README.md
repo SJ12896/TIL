@@ -131,6 +131,8 @@
 53. [7562_나이트의 이동](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/7562.md) 
 54. [2206_벽 부수고 이동하기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2206.md) 
 55. [16956_늑대와 양](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/16956.md) 
+56. [1389_케빈 베이컨의 6단계 법칙](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1389.md) 
+57. [2146_다리 만들기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2146.md) 
 
 
 

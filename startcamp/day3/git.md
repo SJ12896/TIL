@@ -71,7 +71,7 @@ $ git commit -m 'startcamp 소스코드 추가'
 ```bash
 $ git log
 
-$ git log --oneline
+$ git log --oneline # log 깔끔하게 보기
 ```
 
 
@@ -126,5 +126,61 @@ $ git push origin master
 ```bash
 $ git clone url # 클라이언트 상에 아무것도 없을 때 서버의 프로젝트를 내려받는 명령어. 저장소 내용을 다운받고 자동으로 init 된다.
 $ git pull origin master # 다른 사람이 코드를 업데이트 했거나 commit했을 때 클라이언트로 내려받는 명령어
+```
+
+
+
+## 5. 과거로 돌아가기
+
+
+
+#### 5-1. staging area에 있던(add로 추가했던) 파일을 처음으로 제거 : working directiory로 돌아감
+
+```bash
+$ git rm --cached a.txt
+```
+
+- 이후에 a를 수정하고 다시 add하고 status를 보면 restore,reset(버전에 따라 다른 말이 나오지만 같다.)을 하라고 한다. 
+
+
+
+#### 5-2. commit 작성하면서 오타가 들어갔을 때 : 가장 마지막 commit만 취소할 수 있다.
+
+```bash
+$ git commit --amend
+```
+
+- 저걸 입력하면 vim이 켜진다. 
+- vim : 텍스트 에디터, 입력 모드와 이동 모드가 존재한다. 
+  - 입력 모드(데이터 추가) : i 
+  - 입력모드에서 내가 입력한 commit 멘트를 수정한다.
+  - 입력 모드 취소 : esc
+  - 저장 : `:wq` (write quit)
+
+
+
+#### 5-3. 파일을 추가하지 않고 commit했을 때 : amend사용
+
+- 다시 add해서 안 올린 파일을 올린 다음에 amend를 실행해서 전에 commit된 파일을 내리고 같이 올리기
+
+```bash
+$  git commit --amend
+```
+
+
+
+#### 5-4. 며칠 전 commit으로 돌아가기 (주의해서 사용하기. 안쓰는 걸 추천)
+
+- git log --oneline을 보면 각 commit마다 고유한 key값을 가지고 있는 걸 볼 수 있다.
+
+```bash
+# commit 과거로 돌아감, 파일에서 내가 간 시점 이후 내용은 다 사라짐. add기록까지 삭제
+$ git reset --hard (내가 가고싶은 커밋 이름, 지우기 직전 시점)
+
+# commit은 과거로 돌아갔지만 status에서 보면 파일은 수정되지 않았음. add 기록은 남아있음.
+$ git reset --soft (내가 가고싶은 커밋 이름, 지우기 직전 시점)
+
+# default가 mixed라 안써도 됨. status에서 보면 파일이 수정되었다고 나옴. add 전단계 까지?
+$ git reset --mixed (내가 가고싶은 커밋 이름, 지우기 직전 시점)
 ```
 
