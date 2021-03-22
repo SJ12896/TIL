@@ -134,6 +134,8 @@
 56. [1389_케빈 베이컨의 6단계 법칙](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1389.md) 
 57. [2146_다리 만들기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2146.md) 
 58. [1325_효율적인 해킹](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1325.md) 
+59. [9095_1, 2, 3 더하기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/9095.md) 🤔
+60. [11726_2xn 타일링](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11726.md) 
 
 
 
