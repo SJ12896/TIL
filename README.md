@@ -45,7 +45,7 @@
 6. [기초 django5](https://github.com/SJ12896/TIL/blob/master/django/0319.md) : Imagekit, form.html, get_object_or_404
 7. [기초 django6](https://github.com/SJ12896/TIL/blob/master/django/0322.md) : Authentication System, 로그인 & 로그아웃, 쿠키, 세션, User CRUD 등
 
-
+- [궁금증](https://github.com/SJ12896/TIL/blob/master/django/extra.md)
 
 #### 5. 알고리즘
 

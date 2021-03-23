@@ -22,6 +22,7 @@ app_name = 'articles'
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('articles/', include('articles.urls')),
+    path('accounts/', include('accounts.urls')),
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
 
 # media method : 근데 static은 우리가 따로 추가안해줬어도 알아서 잘됐다.

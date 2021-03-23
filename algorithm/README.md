@@ -136,6 +136,7 @@
 58. [1325_효율적인 해킹](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1325.md) 
 59. [9095_1, 2, 3 더하기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/9095.md) 🤔
 60. [11726_2xn 타일링](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11726.md) 
+61. [12852_1로 만들기 2](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/12852.md) 🤔
 
 
 

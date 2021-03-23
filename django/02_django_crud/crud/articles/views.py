@@ -1,5 +1,6 @@
 from django.shortcuts import render, redirect
 from django.views.decorators.http import require_safe, require_http_methods, require_POST
+from django.contrib.auth.decorators import login_required
 from .models import Article
 from .forms import ArticleForm
 
@@ -17,6 +18,7 @@ def index(request):
 
 # 하나의 view 함수가 request의 method에 따라 2가지 역할을 하게 됨
 # 사용자가 django form에서 데이터를 입력하고 submit해서 데이터가 넘어온 상태 가정
+@login_required
 @require_http_methods(['GET', 'POST'])
 def create(request):
     # title = request.POST.get('title')
@@ -55,7 +57,6 @@ def create(request):
     # # 유효성 검사에서 탈락했을 때
     # return redirect('articles:new')
 
-
 @require_safe
 def detail(request, pk):
     article = Article.objects.get(pk=pk)
@@ -67,9 +68,13 @@ def detail(request, pk):
 
 @require_POST
 def delete(request, pk):
-    article = Article.objects.get(pk=pk)
-    article.delete()
-    return redirect('articles:index')
+    if request.user.is_authenticated:
+        article = Article.objects.get(pk=pk)
+        article.delete()
+        return redirect('articles:index')
+    else:
+        request.session['pk'] = pk
+        return redirect('accounts:login')
 
 
 @require_http_methods(['GET', 'POST'])
