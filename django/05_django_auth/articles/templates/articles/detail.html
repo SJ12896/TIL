@@ -15,4 +15,33 @@
     <button class="btn btn-danger">DELETE</button>
   </form>
   <a href="{% url 'articles:index' %}">[back]</a>
+
+  <hr>
+  <h4>댓글 목록</h4>
+  총 댓글 수 : {{ comments|length }}
+  총 댓글 수 : {{ article.comment_set.all|length }}
+  총 댓글 수 : {{ comments.count }}
+  <ul>
+  {% for comment in comments %}
+
+  <li>
+  {{ comment }}
+
+  <form action="{% url 'articles:comments_delete' article.pk comment.pk %}" method="POST">
+  {% csrf_token %}
+  <input type="submit" value="삭제">
+  </form>
+  
+  </li>
+{% empty %}
+<p>댓글이 없네요.</p>
+  {% endfor %}
+  </ul>
+
+  <hr>
+  <form action="{% url 'articles:comments_create' article.pk %}" method="POST">
+  {% csrf_token %}
+  {{ comment_form }}
+  <input type="submit">
+  </form>
 {% endblock %}

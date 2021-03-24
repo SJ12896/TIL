@@ -69,6 +69,7 @@
 63. [1953_탈주범 검거](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1953.md) 😥
 64. [10966_물놀이를 가자](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/10966.md) 🤔
 65. [4012_요리사](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4012.md) 🤔
+66. [2117_홈 방범 서비스](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/2117.md) 🤔
 
 
 
@@ -137,6 +138,7 @@
 59. [9095_1, 2, 3 더하기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/9095.md) 🤔
 60. [11726_2xn 타일링](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11726.md) 
 61. [12852_1로 만들기 2](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/12852.md) 🤔
+62. [2805_나무 자르기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2805.md) 🤔
 
 
 

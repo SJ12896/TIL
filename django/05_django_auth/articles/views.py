@@ -1,8 +1,9 @@
 from django.shortcuts import render, redirect, get_object_or_404
 from django.views.decorators.http import require_safe, require_http_methods, require_POST
 from django.contrib.auth.decorators import login_required
-from .models import Article
-from .forms import ArticleForm
+from django.http import HttpResponse
+from .models import Article, Comment
+from .forms import ArticleForm, CommentForm
 
 # Create your views here.
 @require_safe
@@ -33,8 +34,12 @@ def create(request):
 @require_safe
 def detail(request, pk):
     article = get_object_or_404(Article, pk=pk)
+    comment_form = CommentForm()
+    comments = article.comment_set.all()
     context = {
         'article': article,
+        'comment_form' : comment_form,
+        'comments' : comments,
     }
     return render(request, 'articles/detail.html', context)
 
@@ -65,3 +70,31 @@ def update(request, pk):
     return render(request, 'articles/update.html', context)
         
 
+@require_POST
+def comments_create(request, pk):
+    if request.user.is_authenticated:
+        article = get_object_or_404(Article, pk=pk)
+        # 댓글 작성을 위한 form은 이미 detail에 있다. get, post를 나눌 필요 없고 
+        # 새 댓글을 위한 get말고 post만 처리하면 된다.
+        # 인자로 받은 pk를 사용해도 되지만 정확히 명시하기 위해 article따로 만들기
+        comment_form = CommentForm(request.POST)
+        if comment_form.is_valid():
+            comment = comment_form.save(commit=False)
+            comment.article = article
+            comment.save()
+            return redirect('articles:detail', article.pk)
+        context = {
+            'comment_form' : comment_form,
+            'article' : article,
+        }
+        return render(request, 'articles/detail.html', context)
+    return HttpResponse(status=401)
+    # return redirect('accounts:login')
+
+
+@require_POST
+def comments_delete(request, article_pk, comment_pk):
+    if request.user.is_authenticated:
+        comment = get_object_or_404(Comment, pk=comment_pk)
+        comment.delete()
+        return redirect('articles:detail', article_pk)
