@@ -139,6 +139,7 @@
 60. [11726_2xn 타일링](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11726.md) 
 61. [12852_1로 만들기 2](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/12852.md) 🤔
 62. [2805_나무 자르기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2805.md) 🤔
+63. [2504_괄호의 값](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2504.md) 🤔
 
 
 

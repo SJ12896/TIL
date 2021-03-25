@@ -4,14 +4,14 @@
 >
 > 매일 배운 것을 정리 & 기록합니다.
 
-
+<br/>
 
 #### 0. StartCamp
 
 1. [마크다운 작성법](https://github.com/SJ12896/TIL/blob/master/startcamp/day1/markdown.md) 
 2. [git 사용법](https://github.com/SJ12896/TIL/blob/master/startcamp/day3/git.md)
 
-
+<br/>
 
 #### 1. 기초 파이썬
 
@@ -24,7 +24,7 @@
 7. [OOP](https://github.com/SJ12896/TIL/blob/master/python/0127.md)
 8. [request, response](https://github.com/SJ12896/TIL/blob/master/python/0129.md)
 
-
+<br/>
 
 #### 2. web
 
@@ -33,7 +33,7 @@
 3. [CSS, Bootstrap ](https://github.com/SJ12896/TIL/blob/master/web/0204.md)
 4. [Emmet](https://github.com/SJ12896/TIL/blob/master/web/0206.md)
 
-
+<br/>
 
 #### 3. django
 
@@ -45,14 +45,25 @@
 6. [기초 django5](https://github.com/SJ12896/TIL/blob/master/django/0319.md) : Imagekit, form.html, get_object_or_404
 7. [기초 django6](https://github.com/SJ12896/TIL/blob/master/django/0322.md) : Authentication System, 로그인 & 로그아웃, 쿠키, 세션, User CRUD 등
 8. [Database & django 1](https://github.com/SJ12896/TIL/blob/master/django/0324.md) : 1 : N 관계, 댓글 CRD, 비인증 사용자, Custom User
+9. [Database & django 2](https://github.com/SJ12896/TIL/blob/master/django/0325.md) : sqlite3, ORM과 sql, queryset API, field lookups
+
+<br/>
 
 - [궁금증](https://github.com/SJ12896/TIL/blob/master/django/extra.md)
 
-#### 5. 알고리즘
+<br/>
+
+#### 4. sql
+
+1. [sqlite](https://github.com/SJ12896/TIL/blob/master/sql/0325.md)
+
+<br/>
+
+#### 4. 알고리즘
 
 1. [기초](https://github.com/SJ12896/TIL/blob/master/algorithm/README.md)
 
-
+<br/>
 
 ### 온라인 강의
 
