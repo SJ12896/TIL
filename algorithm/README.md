@@ -140,8 +140,10 @@
 61. [12852_1로 만들기 2](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/12852.md) 🤔
 62. [2805_나무 자르기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2805.md) 🤔
 63. [2504_괄호의 값](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2504.md) 🤔
-
-
+64. [11399_ATM](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11399.md) 
+65. [16953_A->B](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/16953.md) 🤔
+66. [13076_제곱근](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/13076.md) 
+67. [12871_무한 문자열](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/12871.md) 
 
 
 
