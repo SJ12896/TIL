@@ -144,6 +144,8 @@
 65. [16953_A->B](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/16953.md) 🤔
 66. [13076_제곱근](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/13076.md) 
 67. [12871_무한 문자열](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/12871.md) 
+68. [17103_골드바흐 파티션](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/17103.md) 
+69. [12026_BOJ 거리](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/12026.md) 🤔
 
 
 
