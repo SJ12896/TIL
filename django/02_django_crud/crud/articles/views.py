@@ -95,7 +95,7 @@ def update(request, pk):
 
     context = {
         'form' : form,
-        'article' : article,
+        #'article' : article,
     }
     return render(request, 'articles/update.html', context)
 

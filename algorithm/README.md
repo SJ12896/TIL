@@ -146,6 +146,7 @@
 67. [12871_무한 문자열](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/12871.md) 
 68. [17103_골드바흐 파티션](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/17103.md) 
 69. [12026_BOJ 거리](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/12026.md) 🤔
+70. [2579_계단 오르기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2579.md) 🤔
 
 
 
