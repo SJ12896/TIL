@@ -147,6 +147,10 @@
 68. [17103_골드바흐 파티션](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/17103.md) 
 69. [12026_BOJ 거리](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/12026.md) 🤔
 70. [2579_계단 오르기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2579.md) 🤔
+71. [2193_이친수](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2193.md) 
+72. [9461_파도반 수열](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/9461.md) 
+73. [11047_동전 0](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11047.md)
+74.  [1931_회의실 배정](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1931.md) 🤔
 
 
 

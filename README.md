@@ -44,7 +44,7 @@
 5. [기초 django4](https://github.com/SJ12896/TIL/blob/master/django/0318.md) : static files, media files 등
 6. [기초 django5](https://github.com/SJ12896/TIL/blob/master/django/0319.md) : Imagekit, form.html, get_object_or_404
 7. [기초 django6](https://github.com/SJ12896/TIL/blob/master/django/0322.md) : Authentication System, 로그인 & 로그아웃, 쿠키, 세션, User CRUD 등
-8. [Database & django 1](https://github.com/SJ12896/TIL/blob/master/django/0324.md) : 1 : N 관계, 댓글 CRD, 비인증 사용자, Custom User
+8. [Database & django 1](https://github.com/SJ12896/TIL/blob/master/django/0324.md) : 1 : N 관계, 댓글 CRD, 비인증 사용자, Custom User, django humanize
 9. [Database & django 2](https://github.com/SJ12896/TIL/blob/master/django/0325.md) : sqlite3, ORM과 sql, queryset API, field lookups
 
 <br/>
