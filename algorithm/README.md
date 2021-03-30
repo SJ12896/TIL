@@ -151,6 +151,8 @@
 72. [9461_파도반 수열](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/9461.md) 
 73. [11047_동전 0](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11047.md)
 74.  [1931_회의실 배정](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1931.md) 🤔
+75. [1904_01타일](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1904.md)
+76. [1699_제곱수의 합](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1699.md)
 
 
 
