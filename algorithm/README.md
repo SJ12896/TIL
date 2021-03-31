@@ -153,6 +153,7 @@
 74.  [1931_회의실 배정](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1931.md) 🤔
 75. [1904_01타일](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1904.md)
 76. [1699_제곱수의 합](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1699.md)
+77. [1011_Fly me to the Alpha Centauri](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1011.md)
 
 
 
