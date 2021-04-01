@@ -154,6 +154,9 @@
 75. [1904_01타일](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1904.md)
 76. [1699_제곱수의 합](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1699.md)
 77. [1011_Fly me to the Alpha Centauri](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1011.md)
+78. [1759_암호 만들기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1759.md)
+79. [15990_1, 2, 3 더하기 5](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/15990.md)
+80. [1541_잃어버린 괄호](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1541.md) 🤔
 
 
 

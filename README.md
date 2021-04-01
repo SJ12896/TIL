@@ -31,7 +31,8 @@
 1. [기초 HTML & CSS](https://github.com/SJ12896/TIL/blob/master/web/0201.md)
 2. [Float, FlexBox, Bootstrap ](https://github.com/SJ12896/TIL/blob/master/web/0202.md)
 3. [CSS, Bootstrap ](https://github.com/SJ12896/TIL/blob/master/web/0204.md)
-4. [Emmet](https://github.com/SJ12896/TIL/blob/master/web/0206.md)
+4. [미디어쿼리, 폰트, 아이콘 등](https://github.com/SJ12896/TIL/blob/master/web/0205.md)
+5. [Emmet](https://github.com/SJ12896/TIL/blob/master/web/0206.md)
 
 <br/>
 
@@ -46,16 +47,11 @@
 7. [기초 django6](https://github.com/SJ12896/TIL/blob/master/django/0322.md) : Authentication System, 로그인 & 로그아웃, 쿠키, 세션, User CRUD 등
 8. [Database & django 1](https://github.com/SJ12896/TIL/blob/master/django/0324.md) : 1 : N 관계, 댓글 CRD, 비인증 사용자, Custom User, django humanize
 9. [Database & django 2](https://github.com/SJ12896/TIL/blob/master/django/0325.md) : sqlite3, ORM과 sql, queryset API, field lookups
+10. [Database & django 3](https://github.com/SJ12896/TIL/blob/master/django/0329.md) : M:N관계, Like, Profile, Follow, querysets are lazy
 
 <br/>
 
 - [궁금증](https://github.com/SJ12896/TIL/blob/master/django/extra.md)
-
-<br/>
-
-#### 4. sql
-
-1. [sqlite](https://github.com/SJ12896/TIL/blob/master/sql/0325.md)
 
 <br/>
 
@@ -65,7 +61,7 @@
 
 <br/>
 
-### 온라인 강의
+#### 5. 온라인 강의
 
 1. [운영체제](https://github.com/SJ12896/TIL/blob/master/online_courses/CS/README.md)
 2. [영리한 프로그래밍을 위한 알고리즘 강좌](https://github.com/SJ12896/TIL/blob/master/online_courses/Algorithm/README.md)
