@@ -34,6 +34,7 @@ INSTALLED_APPS = [
     'articles',
     'accounts',
     'bootstrap5',
+    'bootstrap_pagination',
     'django_extensions',
     'django.contrib.admin',
     'django.contrib.auth',

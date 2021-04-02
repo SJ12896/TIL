@@ -157,6 +157,9 @@
 78. [1759_암호 만들기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1759.md)
 79. [15990_1, 2, 3 더하기 5](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/15990.md)
 80. [1541_잃어버린 괄호](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1541.md) 🤔
+81. [11053_가장 긴 증가하는 부분 수열](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11053.md) 🤔
+82. [2217_로프](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2217.md) 
+83. [1946_신입 사원](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1946.md) 🤔
 
 
 

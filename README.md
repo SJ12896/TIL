@@ -48,6 +48,7 @@
 8. [Database & django 1](https://github.com/SJ12896/TIL/blob/master/django/0324.md) : 1 : N 관계, 댓글 CRD, 비인증 사용자, Custom User, django humanize
 9. [Database & django 2](https://github.com/SJ12896/TIL/blob/master/django/0325.md) : sqlite3, ORM과 sql, queryset API, field lookups
 10. [Database & django 3](https://github.com/SJ12896/TIL/blob/master/django/0329.md) : M:N관계, Like, Profile, Follow, querysets are lazy
+11. [추가기능](https://github.com/SJ12896/TIL/blob/master/django/0402.md) : gravatar, custom template tags and filters, paginator
 
 <br/>
 

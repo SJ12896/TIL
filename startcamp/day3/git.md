@@ -161,7 +161,7 @@ $ git push origin master
 ## 4.Clone & Pull
 
 ```bash
-$ git clone url name # 클라이언트 상에 아무것도 없을 때 서버의 프로젝트를 내려받는 명령어. 저장소 내용을 다운받고 자동으로 init 된다. 어떤 이름인지 지정가능
+$ git clone url name # 클라이언트 상에 아무것도 없을 때 서버의 프로젝트를 내려받는 명령어. 저장소 내용을 다운받고 자동으로 init 된다. url name뒤에 내 로컬에 만들어질 폴더명을 써도 된다.
 $ git pull origin master # 다른 사람이 코드를 업데이트 했거나 commit했을 때 클라이언트로 내려받는 명령어
 ```
 
@@ -295,6 +295,9 @@ $ rm -rf .git
 <br/>
 
 ## 7.branch
+
+- 작업하기 전에 내가 어떤 branch에 있는지 꼭 확인하자.
+- 한 기능을 완료하면 그 때 그 때 commit을 남기는 게 버전 관리 측면에서 좋다. push할 때도 해당 branch에서 해당 이름으로 하자.
 
 - commit을 한 번이라도 해야 branch 목록을 볼 수 있다.
 
@@ -478,8 +481,22 @@ $ git log --oneline --graph
 
 ### 7-4. 다른사람과 함께 하면서 기능 push
 
-- local에서
-  - a -> siwtch master -> git merge fature/signup -> git push origin master (signup 올림)
+- 처음부터 git branch 여러개 다루면 어려우니까 일단 페어와 각자 master외의 하나의 브랜치만 새로 만들어서 다루는 걸로 하자.
+
+- local에서 (기능구현 branch에서 add, commit까지 한 후)
+  - a -> siwtch master -> git merge feature/signup -> git push origin master (signup 올림)
   - b -> git pull origin master(feature/login상태에서 하면 안됨. master상태에서 해야함, 충돌 일어남.), signup master에 받아옴 -> 그 다음 git merge feature/login -> git push origin master (signup + 내 login 올림)
   - a -> git pull origin master (로그인 추가됨)
+
+
+
+### 8.Fork
+
+- 상대방의 git lab에 들어가 fork를 누르면 내 프로젝트로 같은 프로젝트가 생성되어있다. 파일 받아서 수정하고 push하면 내꺼에 반영 -> 내 저장소에서 merge request 누르면 source는 내꺼 target은 상대방꺼로 설정되어있고 보낼 수 있다. 그래서 상대방이 요청들을 보고 반영할 수 있는데 한 명 반영하고 같은 부분을 수정한 다른 코드를 merge하면 충돌이 일어난다. 
+
+
+
+### 9.Issue
+
+- 수정해야되는 코드가 있을 때 의견을 남길 수 있다. 코드의 한 줄마다 링크가 걸려있는데 이를 선택한 뒤 url을 복사해서 issue에 첨부하면 어떤 부분인지 바로 알려줄 수 있다.
 
