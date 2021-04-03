@@ -160,6 +160,9 @@
 81. [11053_가장 긴 증가하는 부분 수열](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11053.md) 🤔
 82. [2217_로프](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2217.md) 
 83. [1946_신입 사원](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1946.md) 🤔
+84. [1912_연속합](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1912.md) 
+85. [9465_스티커](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/9465.md) 
+86. [11055_가장 큰 증가 부분 수열](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11055.md) 
 
 
 
