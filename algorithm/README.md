@@ -163,6 +163,7 @@
 84. [1912_연속합](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1912.md) 
 85. [9465_스티커](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/9465.md) 
 86. [11055_가장 큰 증가 부분 수열](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11055.md) 
+87. [1654_랜선 자르기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1654.md) 
 
 
 
