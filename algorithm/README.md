@@ -70,6 +70,8 @@
 64. [10966_물놀이를 가자](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/10966.md) 🤔
 65. [4012_요리사](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4012.md) 🤔
 66. [2117_홈 방범 서비스](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/2117.md) 🤔
+67. [1231_중위순회](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1231.md) 
+68. [1248_공통조상](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1248.md) 
 
 
 
@@ -182,3 +184,4 @@
 2. [문자열, 패턴 매칭](https://github.com/SJ12896/TIL/blob/master/algorithm/0217.md)
 3. [스택, memoization, DP, DFS](https://github.com/SJ12896/TIL/blob/master/algorithm/0222.md)
 4. [큐, BFS, 버퍼, 최단 경로](https://github.com/SJ12896/TIL/blob/master/algorithm/0303.md)
+5. [트리, 이진트리, 이진탐색트리, 힙](https://github.com/SJ12896/TIL/blob/master/algorithm/0405.md)
