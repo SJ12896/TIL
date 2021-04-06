@@ -72,6 +72,10 @@
 66. [2117_홈 방범 서비스](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/2117.md) 🤔
 67. [1231_중위순회](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1231.md) 
 68. [1248_공통조상](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1248.md) 
+69. [5176_이진탐색](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5176.md) 
+70. [5177_이진힙](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5177.md) 🤔
+71. [5174_subtree](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5174.md) 
+72. [5178_노드의 합](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5178.md) 
 
 
 
@@ -166,6 +170,8 @@
 85. [9465_스티커](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/9465.md) 
 86. [11055_가장 큰 증가 부분 수열](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11055.md) 
 87. [1654_랜선 자르기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1654.md) 
+88. [1991_트리 순회](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1991.md) 
+89. [1068_트리](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1068.md) 
 
 
 
