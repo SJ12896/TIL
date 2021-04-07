@@ -76,6 +76,8 @@
 70. [5177_이진힙](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5177.md) 🤔
 71. [5174_subtree](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5174.md) 
 72. [5178_노드의 합](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5178.md) 
+73. [1232_사칙연산](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1232.md) 
+74. [3752_가능한 시험 점수](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/3752.md) 🤔
 
 
 
