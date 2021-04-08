@@ -77,7 +77,7 @@
 71. [5174_subtree](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5174.md) 
 72. [5178_노드의 합](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5178.md) 
 73. [1232_사칙연산](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1232.md) 
-74. [3752_가능한 시험 점수](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/3752.md) 🤔
+74. [3752_가능한 시험 점수](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/3752.md) 😥
 
 
 
@@ -147,7 +147,7 @@
 60. [11726_2xn 타일링](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11726.md) 
 61. [12852_1로 만들기 2](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/12852.md) 🤔
 62. [2805_나무 자르기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2805.md) 🤔
-63. [2504_괄호의 값](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2504.md) 🤔
+63. [2504_괄호의 값](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2504.md) 😥
 64. [11399_ATM](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11399.md) 
 65. [16953_A->B](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/16953.md) 🤔
 66. [13076_제곱근](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/13076.md) 
@@ -174,6 +174,8 @@
 87. [1654_랜선 자르기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1654.md) 
 88. [1991_트리 순회](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1991.md) 
 89. [1068_트리](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1068.md) 
+90. [10157_자리배정](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/10157.md) 😥
+91. [11729_하노이 탑 이동 순서](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11729.md) 🤔
 
 
 

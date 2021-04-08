@@ -69,5 +69,9 @@
 
 
 
+### 6. 책
+
+1. [파이썬 자료구조와 알고리즘 - 미아 스타인](https://github.com/SJ12896/TIL/blob/master/book/miastein/README.md)
+
 
 
