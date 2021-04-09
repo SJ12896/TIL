@@ -79,9 +79,9 @@
 73. [1232_사칙연산](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1232.md) 
 74. [3752_가능한 시험 점수](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/3752.md) 😥
 
+<br/>
 
-
-
+<br/>
 
 
 ### beckjoon
@@ -176,17 +176,22 @@
 89. [1068_트리](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1068.md) 
 90. [10157_자리배정](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/10157.md) 😥
 91. [11729_하노이 탑 이동 순서](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11729.md) 🤔
+92. [6603_로또](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/6603.md) 
+93. [11722_가장 긴 감소하는 부분 수열](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11722.md) 
+94. [1890_점프](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1890.md) 
 
+<br/>
 
+<br/>
 
 ### JUNGOL
 
 1. [1037_오류교정](https://github.com/SJ12896/TIL/blob/master/algorithm/jungol/1037.md) 
 2. [1105_조커](https://github.com/SJ12896/TIL/blob/master/algorithm/jungol/1205.md)  😥 🤮
 
+<br/>
 
-
-
+<br/>
 
 ### 이론
 
