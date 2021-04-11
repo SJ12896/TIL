@@ -14,4 +14,10 @@ CHAPTER 02. [내장 시퀀스 타입](https://github.com/SJ12896/TIL/blob/master
 
 <br/>
 
+CHAPTER 03. [컬렉션 자료구조](https://github.com/SJ12896/TIL/blob/master/book/miastein/3.md)
+
+- [연습문제](https://github.com/SJ12896/TIL/blob/master/book/miastein/3_.md)
+
+<br/>
+
 CHAPTER 12 & 13. [그래프 기초, 이진 트리](https://github.com/SJ12896/TIL/blob/master/book/miastein/12.md)

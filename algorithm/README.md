@@ -179,6 +179,8 @@
 92. [6603_로또](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/6603.md) 
 93. [11722_가장 긴 감소하는 부분 수열](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11722.md) 
 94. [1890_점프](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1890.md) 
+95. [1062_가르침](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1062.md) 
+96. [5639_이진 검색 트리](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/5639.md) 😥
 
 <br/>
 
