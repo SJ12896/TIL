@@ -181,6 +181,7 @@
 94. [1890_점프](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1890.md) 
 95. [1062_가르침](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1062.md) 
 96. [5639_이진 검색 트리](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/5639.md) 😥
+97. [9205_맥주 마시면서 걸어가기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/9205.md) 
 
 <br/>
 

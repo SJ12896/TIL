@@ -20,4 +20,8 @@ CHAPTER 03. [컬렉션 자료구조](https://github.com/SJ12896/TIL/blob/master/
 
 <br/>
 
+CHAPTER 04. [구조와 모듈](https://github.com/SJ12896/TIL/blob/master/book/miastein/4.md)
+
+<br/>
+
 CHAPTER 12 & 13. [그래프 기초, 이진 트리](https://github.com/SJ12896/TIL/blob/master/book/miastein/12.md)
