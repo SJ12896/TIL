@@ -24,4 +24,8 @@ CHAPTER 04. [구조와 모듈](https://github.com/SJ12896/TIL/blob/master/book/m
 
 <br/>
 
+CHAPTER 05. [객체지향 설계](https://github.com/SJ12896/TIL/blob/master/book/miastein/5.md)
+
+<br/>
+
 CHAPTER 12 & 13. [그래프 기초, 이진 트리](https://github.com/SJ12896/TIL/blob/master/book/miastein/12.md)

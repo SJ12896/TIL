@@ -66,6 +66,7 @@
 
 1. [운영체제](https://github.com/SJ12896/TIL/blob/master/online_courses/CS/README.md)
 2. [알고리즘](https://github.com/SJ12896/TIL/blob/master/online_courses/Algorithm/README.md)
+3. [디지털 논리회로](https://github.com/SJ12896/TIL/blob/master/online_courses/digital/README.md)
 
 <br/>
 

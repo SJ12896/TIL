@@ -78,6 +78,7 @@
 72. [5178_노드의 합](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5178.md) 
 73. [1232_사칙연산](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1232.md) 
 74. [3752_가능한 시험 점수](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/3752.md) 😥
+75. [1240_단순 2진 암호코드](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1240.md) 
 
 <br/>
 
@@ -182,6 +183,7 @@
 95. [1062_가르침](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1062.md) 
 96. [5639_이진 검색 트리](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/5639.md) 😥
 97. [9205_맥주 마시면서 걸어가기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/9205.md) 
+98. [14503_로봇 청소기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/14503.md) 
 
 <br/>
 
