@@ -1,6 +1,6 @@
 ## 알고리즘 
 
-
+<br/>
 
 ### SW Expert
 
@@ -79,6 +79,8 @@
 73. [1232_사칙연산](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1232.md) 
 74. [3752_가능한 시험 점수](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/3752.md) 😥
 75. [1240_단순 2진 암호코드](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1240.md) 
+76. [1244_최대 상금](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1244.md) 😥
+77. [1242_암호코드 스캔](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1242.md) 😥
 
 <br/>
 
@@ -184,6 +186,7 @@
 96. [5639_이진 검색 트리](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/5639.md) 😥
 97. [9205_맥주 마시면서 걸어가기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/9205.md) 
 98. [14503_로봇 청소기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/14503.md) 
+99. [1339_단어 수학](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1339.md) 
 
 <br/>
 
