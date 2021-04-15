@@ -81,6 +81,11 @@
 75. [1240_단순 2진 암호코드](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1240.md) 
 76. [1244_최대 상금](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1244.md) 😥
 77. [1242_암호코드 스캔](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1242.md) 😥
+78. [5188_최소합](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5188.md) 
+79. [5189_전자카트](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5189.md) 
+80. [5201_컨테이너 운반](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5201.md) 
+81. [5202_화물 도크](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5202.md) 
+82. [5203_베이비진 게임](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5203.md) 
 
 <br/>
 
@@ -187,6 +192,8 @@
 97. [9205_맥주 마시면서 걸어가기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/9205.md) 
 98. [14503_로봇 청소기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/14503.md) 
 99. [1339_단어 수학](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1339.md) 
+100. [1149_RGB거리](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1149.md) 😥
+101. [1932_정수 삼각형](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1932.md) 
 
 <br/>
 
