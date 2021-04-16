@@ -86,6 +86,9 @@
 80. [5201_컨테이너 운반](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5201.md) 
 81. [5202_화물 도크](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5202.md) 
 82. [5203_베이비진 게임](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5203.md) 
+83. [4366_정식이의 은행업무](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4366.md) 
+84. [1970_쉬운 거스름돈](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1970md) 
+85. [1486_장훈이의 높은 선반](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1486md) 
 
 <br/>
 
@@ -194,6 +197,7 @@
 99. [1339_단어 수학](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1339.md) 
 100. [1149_RGB거리](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1149.md) 😥
 101. [1932_정수 삼각형](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1932.md) 
+102. [11057_오르막 수](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11057.md) 
 
 <br/>
 
