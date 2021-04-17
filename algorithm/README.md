@@ -197,7 +197,9 @@
 99. [1339_단어 수학](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1339.md) 
 100. [1149_RGB거리](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1149.md) 😥
 101. [1932_정수 삼각형](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1932.md) 
-102. [11057_오르막 수](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11057.md) 
+102. [11057_오르막 수](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11057.md)
+103. [10972_다음 순열](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/10972.md) 🤔
+104. [10973_이전 순열](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/10973.md) 
 
 <br/>
 
@@ -214,8 +216,16 @@
 
 ### 이론
 
+#### 수업
+
 1. [배열과 정렬](https://github.com/SJ12896/TIL/blob/master/algorithm/0208.md)
 2. [문자열, 패턴 매칭](https://github.com/SJ12896/TIL/blob/master/algorithm/0217.md)
 3. [스택, memoization, DP, DFS](https://github.com/SJ12896/TIL/blob/master/algorithm/0222.md)
 4. [큐, BFS, 버퍼, 최단 경로](https://github.com/SJ12896/TIL/blob/master/algorithm/0303.md)
 5. [트리, 이진트리, 이진탐색트리, 힙](https://github.com/SJ12896/TIL/blob/master/algorithm/0405.md)
+
+<br/>
+
+#### 수업 외
+
+- [Next Permutation Algorithm](https://github.com/SJ12896/TIL/blob/master/algorithm/Next_Permutation_Algorithm.md)
