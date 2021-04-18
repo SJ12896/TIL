@@ -87,8 +87,8 @@
 81. [5202_화물 도크](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5202.md) 
 82. [5203_베이비진 게임](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5203.md) 
 83. [4366_정식이의 은행업무](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4366.md) 
-84. [1970_쉬운 거스름돈](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1970md) 
-85. [1486_장훈이의 높은 선반](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1486md) 
+84. [1970_쉬운 거스름돈](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1970.md) 
+85. [1486_장훈이의 높은 선반](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1486.md) 
 
 <br/>
 
@@ -200,6 +200,7 @@
 102. [11057_오르막 수](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11057.md)
 103. [10972_다음 순열](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/10972.md) 🤔
 104. [10973_이전 순열](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/10973.md) 
+105. [10971_외판원 순회 2](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/10971.md) 
 
 <br/>
 
