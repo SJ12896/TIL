@@ -38,6 +38,8 @@
 
 #### 3. django
 
+##### 3-1. 수업
+
 1. [기초 django](https://github.com/SJ12896/TIL/blob/master/django/0308.md) : urls, views, templates, DTL 등
 2. [기초 django2](https://github.com/SJ12896/TIL/blob/master/django/0310.md) : model, ORM, Migrations, Database API, CRUD 등
 3. [기초 django3](https://github.com/SJ12896/TIL/blob/master/django/0312.md) : 가상환경, 모델의 초기 데이터 제공
@@ -51,6 +53,10 @@
 11. [추가기능](https://github.com/SJ12896/TIL/blob/master/django/0402.md) : gravatar, custom template tags and filters, paginator
 
 <br/>
+
+##### 3-2. 개인학습
+
+1. [django allauth](https://github.com/SJ12896/TIL/blob/master/django/allauth.md) : kakao 로그인
 
 - [궁금증](https://github.com/SJ12896/TIL/blob/master/django/extra.md)
 
