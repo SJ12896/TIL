@@ -89,6 +89,7 @@
 83. [4366_정식이의 은행업무](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/4366.md) 
 84. [1970_쉬운 거스름돈](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1970.md) 
 85. [1486_장훈이의 높은 선반](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1486.md) 
+86. [1865_동철이의 일 분배](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1865.md)
 
 <br/>
 
@@ -201,6 +202,9 @@
 103. [10972_다음 순열](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/10972.md) 🤔
 104. [10973_이전 순열](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/10973.md) 
 105. [10971_외판원 순회 2](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/10971.md) 
+106. [1780_종이의 개수](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1780.md) 
+107. [1992_쿼드트리](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1992.md) 🤔
+108. [14889_스타트와 링크](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/14889.md) 
 
 <br/>
 
