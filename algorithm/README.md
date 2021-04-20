@@ -90,6 +90,11 @@
 84. [1970_쉬운 거스름돈](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1970.md) 
 85. [1486_장훈이의 높은 선반](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1486.md) 
 86. [1865_동철이의 일 분배](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1865.md)
+87. [2806_N-Queen](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/2806.md)
+88. [5204_병합 정렬](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5204.md) 😥
+89. [5205_퀵 정렬](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5205.md) 😥
+90. [5207_이진 탐색](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5207.md) 😥
+91. [5208_전기버스2](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5208.md) 😥
 
 <br/>
 
@@ -205,6 +210,7 @@
 106. [1780_종이의 개수](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1780.md) 
 107. [1992_쿼드트리](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1992.md) 🤔
 108. [14889_스타트와 링크](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/14889.md) 
+109. [2512_예산](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2512.md) 😥
 
 <br/>
 
