@@ -95,6 +95,7 @@
 89. [5205_퀵 정렬](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5205.md) 😥
 90. [5207_이진 탐색](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5207.md) 😥
 91. [5208_전기버스2](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5208.md) 😥
+92. [2814_최장경로](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/2814.md) 
 
 <br/>
 
@@ -211,6 +212,9 @@
 107. [1992_쿼드트리](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1992.md) 🤔
 108. [14889_스타트와 링크](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/14889.md) 
 109. [2512_예산](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2512.md) 😥
+110. [1072_게임](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1072.md) 
+111. [6236_용돈 관리](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/6236.md) 😥
+112. [10451_순열 사이클](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/10451.md) 
 
 <br/>
 
