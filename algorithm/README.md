@@ -96,6 +96,11 @@
 90. [5207_이진 탐색](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5207.md) 😥
 91. [5208_전기버스2](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5208.md) 😥
 92. [2814_최장경로](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/2814.md) 
+93. [5247_연산](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5247.md) 
+94. [5248_그룹 나누기](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5248.md) 
+95. [5249_최소 신장 트리](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5249.md) 🤔
+96. [5250_최소비용](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5250.md) 
+97. [5251_최소 이동 거리](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5251.md) 😥
 
 <br/>
 
@@ -215,6 +220,9 @@
 110. [1072_게임](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1072.md) 
 111. [6236_용돈 관리](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/6236.md) 😥
 112. [10451_순열 사이클](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/10451.md) 
+113. [1753_최단경로](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1753.md) 🤔
+114. [1916_최소비용 구하기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1916.md) 
+115. [1197_최소 스패닝 트리](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1197.md) 🤔
 
 <br/>
 
