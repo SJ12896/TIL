@@ -101,6 +101,9 @@
 95. [5249_최소 신장 트리](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5249.md) 🤔
 96. [5250_최소비용](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5250.md) 
 97. [5251_최소 이동 거리](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/5251.md) 😥
+98. [7465_창용 마을 무리의 개수](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/7465.md) 
+99. [1795_인수의 생일 파티](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1795.md) 
+100. [1251_하나로](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/1251.md) 
 
 <br/>
 
@@ -223,6 +226,8 @@
 113. [1753_최단경로](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1753.md) 🤔
 114. [1916_최소비용 구하기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1916.md) 
 115. [1197_최소 스패닝 트리](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1197.md) 🤔
+116. [10989_수 정렬하기 3](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/10989.md) 🤔
+117. [11004_K번째 수](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11004.md) 🤔
 
 <br/>
 
