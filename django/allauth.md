@@ -7,6 +7,19 @@
 - [django-allauth](https://django-allauth.readthedocs.io/en/latest/index.html) 에서 Installation 절차를 따라한다.
 - django-allauth의 Providers에서 내가 사용할 사이트 별로 나와있는 App registration절차를 거친다.
 
+<br/>
+
+### -1. allauth에 대해 더 자세히 알아보기
+
+- allauth에서 제공해주는 기능을 제대로 사용하지 않고 진행하고 있다는 생각이 들어 더 진행하기 전에 좀 더 자료를 찾아봤다. 꽤 자세히 설명된 튜토리얼을 발견했다. 
+- [Django-allauth Tutorial](https://learndjango.com/tutorials/django-allauth-tutorial)
+- 먼저 공식문서의 Configuration에 다양한 옵션이 있었는데 이걸 어디에 어떻게 활용하는 건지 알 수 없었다. 위 사이트에서 본 바에 따르면 settings.py의 밑부분에 우리가 사용할 allauth backend를 구체화할 수 있다. SITE_ID를 쓴 이유는 allauth보고 이걸 사용하라고 명시해준 거고 로그인에 성공했을 때 리다이렉트할 홈페이지를 알려준 셈이다.
+- 또 그 외에 ACCOUNT_EMAIL_VERIFICATION 같은 기능을 mandatory로 지정하고 ACCOUNT_EMAIL_REQUIRED를 True로 지정하면 가입당시에 사용자가 의무적으로 이메일 주소를 입력해야한다. mandatory를 쓰면 이메일 인증이 끝나기 전에는 로그인이 제한된다. 
+- ACCOUNT_AUTHENTICATION_METHOD를 email로 변경하면 기존에 username으로 로그인했던 방식에서 달라진다. 또 비밀번호를 리셋한 다음 자동으로 로그인되게 한다거나 socialaccount email 인증도 있었다. 
+- 유용하게 사용할 수 있는 기능이 많은 건 알겠는데 어떻게 기억하고 이걸 사용할까?
+
+<br/>
+
 ### 1. Kakao
 
 - [공식 문서](https://developers.kakao.com/docs)
