@@ -51,6 +51,7 @@
 9. [Database & django 2](https://github.com/SJ12896/TIL/blob/master/django/0325.md) : sqlite3, ORM과 sql, queryset API, field lookups
 10. [Database & django 3](https://github.com/SJ12896/TIL/blob/master/django/0329.md) : M:N관계, Like, Profile, Follow, querysets are lazy
 11. [추가기능](https://github.com/SJ12896/TIL/blob/master/django/0402.md) : gravatar, custom template tags and filters, paginator
+12. [REST API](https://github.com/SJ12896/TIL/blob/master/django/0426.md) : REST API, Django REST FRAMEWORK, drf-yasg
 
 <br/>
 
@@ -64,7 +65,7 @@
 
 #### 4. 알고리즘
 
-1. [기초](https://github.com/SJ12896/TIL/blob/master/algorithm/README.md)
+1. [알고리즘](https://github.com/SJ12896/TIL/blob/master/algorithm/README.md)
 
 <br/>
 
