@@ -230,6 +230,8 @@
 117. [11004_K번째 수](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11004.md) 🤔
 118. [4696_캠핑](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/4796.md) 
 119. [15686_치킨 배달](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/15686.md) 
+120. [2293_동전 1](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2293.md) 😥
+121. [11052_카드 구매하기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11052.md) 
 
 <br/>
 
