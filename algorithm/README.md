@@ -232,6 +232,8 @@
 119. [15686_치킨 배달](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/15686.md) 
 120. [2293_동전 1](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2293.md) 😥
 121. [11052_카드 구매하기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11052.md) 
+122. [5567_결혼식](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/5567.md) 
+123. [11497_통나무 건너뛰기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11497.md) 🤔
 
 <br/>
 

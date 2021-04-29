@@ -66,6 +66,7 @@
 #### 4. Javascript
 
 1. [기초 javascript](https://github.com/SJ12896/TIL/blob/master/js/0428.md) : DOM, Event, let, const, var 등
+2. [기초 javascript2](https://github.com/SJ12896/TIL/blob/master/js/0429.md) : 타입과 연산자, 조건문과 반복문, 함수, 배열, 객체 등
 
 <br/>
 
