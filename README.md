@@ -52,6 +52,7 @@
 10. [Database & django 3](https://github.com/SJ12896/TIL/blob/master/django/0329.md) : M:N관계, Like, Profile, Follow, querysets are lazy
 11. [추가기능](https://github.com/SJ12896/TIL/blob/master/django/0402.md) : gravatar, custom template tags and filters, paginator
 12. [REST API](https://github.com/SJ12896/TIL/blob/master/django/0426.md) : REST API, Django REST FRAMEWORK, drf-yasg
+13. [CBV](https://github.com/SJ12896/TIL/blob/master/django/cbv.md) : class  based view, generic.views, loginRequiredMixin, get_absolute_url 등
 
 <br/>
 
