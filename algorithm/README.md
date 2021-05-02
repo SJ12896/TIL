@@ -236,6 +236,8 @@
 123. [11497_통나무 건너뛰기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11497.md) 🤔
 124. [5430_AC](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/5430.md) 🤔
 125. [13305_주유소](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/13305.md) 
+126. [14502_연구소](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/14502.md) 
+127. [2110_공유기 설치](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2110.md) 😥
 
 <br/>
 
