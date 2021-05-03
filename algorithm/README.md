@@ -238,6 +238,8 @@
 125. [13305_주유소](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/13305.md) 
 126. [14502_연구소](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/14502.md) 
 127. [2110_공유기 설치](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2110.md) 😥
+128. [11048_이동하기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11048.md) 🤔
+129. [1922_네트워크 연결](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1922.md) 
 
 <br/>
 
