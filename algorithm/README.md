@@ -240,6 +240,8 @@
 127. [2110_공유기 설치](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2110.md) 😥
 128. [11048_이동하기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11048.md) 🤔
 129. [1922_네트워크 연결](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1922.md) 
+130. [2493_탑](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2493.md) 🤔
+131. [1080_행렬](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1080.md) 
 
 <br/>
 
