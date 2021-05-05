@@ -242,6 +242,8 @@
 129. [1922_네트워크 연결](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1922.md) 
 130. [2493_탑](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2493.md) 🤔
 131. [1080_행렬](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1080.md) 
+132. [9935_문자열 폭발](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/9935.md) 🤔
+133. [3055_탈출](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/3055.md) 
 
 <br/>
 
