@@ -112,138 +112,276 @@
 
 ### beckjoon
 1. [1316_그룹 단어 체커](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1316.md)
+
 2. [2609_최대공약수와 최소공배수](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2609.md)
+
 3. [2941_크로아티아 알파벳](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2941.md)
+
 4. [1158_요세푸스 문제](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1158.md)
+
 5. [7568_덩치](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/7568.md)
+
 6. [1475_방 번호](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1475.md)
+
 7. [1476_영화감독 숌](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1476.md) 
+
 8. [1094_막대기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1094.md)
+
 9. [10610_30](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/10610.md) 😥
+
 10. [11723_집합](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11723.md)
+
 11. [2563_색종이](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2563.md) 😥
+
 12. [1789_수들의 합](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1789.md)
+
 13. [9655_돌 게임](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/9655.md)
+
 14. [2822_점수 계산](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2822.md)
+
 15. [1913_달팽이](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1913.md) 😥
+
 16. [1065_한수](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1065.md) 
+
 17. [10828_스택](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/10828.md) 
+
 18. [10163_색종이](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/10163.md) 
+
 19. [2477_참외밭](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2477.md) 😥
+
 20. [1874_스택 수열](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1874.md) 
+
 21. [2606_바이러스](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2606.md) 
+
 22. [2667_단지번호붙이기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2667.md) 
+
 23. [1012_유기농 배추](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1012.md) 🤔
+
 24. [11724_연결 요소의 개수](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11724.md) 
+
 25. [2839_설탕배달](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2839.md)  😥
+
 26. [9663_N-Queen](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/9663.md)  😥 🤮
+
 27. [4963_섬의 개수](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/4963.md) 
+
 28. [2468_안전 영역](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2468.md) 
+
 29. [2583_영역 구하기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2583.md) 
+
 30. [1987_알파벳](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1987.md) 😥 
+
 31. [10026_적록색약](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/10026.md) 😥 
+
 32. [2644_촌수계산](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2644.md) 😥 
+
 33. [2573_빙산](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2573.md) 
+
 34. [1260_DFS와 BFS](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2573.md)
+
 35. [2178_미로 탐색](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2178.md) 😥 
+
 36. [7576_토마토](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/7576.md) 
+
 37. [2798_블랙잭](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2798.md) 
+
 38. [1937_욕심쟁이 판다](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1937.md)  😥 🤮
+
 39. [5014_스타트링크](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/5014.md)  😥
+
 40. [2589_보물섬](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2589.md) 
+
 41. [2630_색종이 만들기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2630.md) 
+
 42. [3986_좋은 단어](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/3986.md) 
+
 43. [11404_플로이드](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11404.md) 
+
 44. [2668_숫자고르기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2668.md) 
+
 45. [14501_퇴사](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/14501.md) 
+
 46. [2446_별 찍기 - 9](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2446.md) 
+
 47. [5635_생일](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/5635.md) 
+
 48. [1978_소수 찾기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1978.md) 
+
 49. [2581_소수](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2581.md) 
+
 50. [1292_쉽게 푸는 문제](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1292.md) 🤔
+
 51. [7569_토마토](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/7569.md) 
+
 52. [1697_숨바꼭질](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1697.md) 
+
 53. [7562_나이트의 이동](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/7562.md) 
+
 54. [2206_벽 부수고 이동하기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2206.md) 
+
 55. [16956_늑대와 양](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/16956.md) 
+
 56. [1389_케빈 베이컨의 6단계 법칙](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1389.md) 
+
 57. [2146_다리 만들기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2146.md) 
+
 58. [1325_효율적인 해킹](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1325.md) 
+
 59. [9095_1, 2, 3 더하기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/9095.md) 🤔
+
 60. [11726_2xn 타일링](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11726.md) 
+
 61. [12852_1로 만들기 2](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/12852.md) 🤔
+
 62. [2805_나무 자르기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2805.md) 🤔
+
 63. [2504_괄호의 값](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2504.md) 😥
+
 64. [11399_ATM](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11399.md) 
+
 65. [16953_A->B](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/16953.md) 🤔
+
 66. [13076_제곱근](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/13076.md) 
+
 67. [12871_무한 문자열](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/12871.md) 
+
 68. [17103_골드바흐 파티션](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/17103.md) 
+
 69. [12026_BOJ 거리](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/12026.md) 🤔
+
 70. [2579_계단 오르기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2579.md) 🤔
+
 71. [2193_이친수](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2193.md) 
+
 72. [9461_파도반 수열](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/9461.md) 
+
 73. [11047_동전 0](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11047.md)
-74.  [1931_회의실 배정](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1931.md) 🤔
+
+74. [1931_회의실 배정](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1931.md) 🤔
+
 75. [1904_01타일](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1904.md)
+
 76. [1699_제곱수의 합](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1699.md)
+
 77. [1011_Fly me to the Alpha Centauri](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1011.md)
+
 78. [1759_암호 만들기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1759.md)
+
 79. [15990_1, 2, 3 더하기 5](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/15990.md)
+
 80. [1541_잃어버린 괄호](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1541.md) 🤔
+
 81. [11053_가장 긴 증가하는 부분 수열](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11053.md) 🤔
+
 82. [2217_로프](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2217.md) 
+
 83. [1946_신입 사원](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1946.md) 🤔
+
 84. [1912_연속합](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1912.md) 
+
 85. [9465_스티커](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/9465.md) 
+
 86. [11055_가장 큰 증가 부분 수열](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11055.md) 
+
 87. [1654_랜선 자르기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1654.md) 
+
 88. [1991_트리 순회](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1991.md) 
+
 89. [1068_트리](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1068.md) 
+
 90. [10157_자리배정](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/10157.md) 😥
+
 91. [11729_하노이 탑 이동 순서](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11729.md) 🤔
+
 92. [6603_로또](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/6603.md) 
+
 93. [11722_가장 긴 감소하는 부분 수열](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11722.md) 
+
 94. [1890_점프](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1890.md) 
+
 95. [1062_가르침](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1062.md) 
+
 96. [5639_이진 검색 트리](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/5639.md) 😥
+
 97. [9205_맥주 마시면서 걸어가기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/9205.md) 
+
 98. [14503_로봇 청소기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/14503.md) 
+
 99. [1339_단어 수학](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1339.md) 
+
 100. [1149_RGB거리](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1149.md) 😥
+
 101. [1932_정수 삼각형](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1932.md) 
+
 102. [11057_오르막 수](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11057.md)
+
 103. [10972_다음 순열](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/10972.md) 🤔
+
 104. [10973_이전 순열](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/10973.md) 
+
 105. [10971_외판원 순회 2](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/10971.md) 
+
 106. [1780_종이의 개수](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1780.md) 
+
 107. [1992_쿼드트리](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1992.md) 🤔
+
 108. [14889_스타트와 링크](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/14889.md) 
+
 109. [2512_예산](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2512.md) 😥
+
 110. [1072_게임](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1072.md) 
+
 111. [6236_용돈 관리](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/6236.md) 😥
+
 112. [10451_순열 사이클](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/10451.md) 
+
 113. [1753_최단경로](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1753.md) 🤔
+
 114. [1916_최소비용 구하기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1916.md) 
+
 115. [1197_최소 스패닝 트리](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1197.md) 🤔
+
 116. [10989_수 정렬하기 3](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/10989.md) 🤔
+
 117. [11004_K번째 수](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11004.md) 🤔
+
 118. [4696_캠핑](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/4796.md) 
+
 119. [15686_치킨 배달](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/15686.md) 
+
 120. [2293_동전 1](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2293.md) 😥
+
 121. [11052_카드 구매하기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11052.md) 
+
 122. [5567_결혼식](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/5567.md) 
+
 123. [11497_통나무 건너뛰기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11497.md) 🤔
+
 124. [5430_AC](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/5430.md) 🤔
+
 125. [13305_주유소](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/13305.md) 
+
 126. [14502_연구소](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/14502.md) 
+
 127. [2110_공유기 설치](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2110.md) 😥
+
 128. [11048_이동하기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11048.md) 🤔
+
 129. [1922_네트워크 연결](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1922.md) 
+
 130. [2493_탑](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2493.md) 🤔
+
 131. [1080_행렬](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1080.md) 
+
 132. [9935_문자열 폭발](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/9935.md) 🤔
+
 133. [3055_탈출](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/3055.md) 
+
+134. [14888_연산자 끼워넣기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/14888.md)
+
+135. [15900_나무 탈출](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/15900.md)
+
+      
 
 <br/>
 
