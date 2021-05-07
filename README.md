@@ -48,9 +48,9 @@
 6. [기초 django5](https://github.com/SJ12896/TIL/blob/master/django/0319.md) : Imagekit, form.html, get_object_or_404
 7. [기초 django6](https://github.com/SJ12896/TIL/blob/master/django/0322.md) : Authentication System, 로그인 & 로그아웃, 쿠키, 세션, User CRUD 등
 8. [Database & django 1](https://github.com/SJ12896/TIL/blob/master/django/0324.md) : 1 : N 관계, 댓글 CRD, 비인증 사용자, Custom User, django humanize
-9. [Database & django 2](https://github.com/SJ12896/TIL/blob/master/django/0325.md) : sqlite3, ORM과 sql, queryset API, field lookups
+9. [Database & django 2](https://github.com/SJ12896/TIL/blob/master/django/0325.md) : sqlite3, ORM과 sql, queryset API, field lookups, annotate를 적용해 시간 단축하기
 10. [Database & django 3](https://github.com/SJ12896/TIL/blob/master/django/0329.md) : M:N관계, Like, Profile, Follow, querysets are lazy
-11. [추가기능](https://github.com/SJ12896/TIL/blob/master/django/0402.md) : gravatar, custom template tags and filters, paginator
+11. [추가기능](https://github.com/SJ12896/TIL/blob/master/django/0402.md) : gravatar, custom template tags and filters, paginator, infinite scroll
 12. [REST API](https://github.com/SJ12896/TIL/blob/master/django/0426.md) : REST API, Django REST framework, drf-yasg
 13. [CBV](https://github.com/SJ12896/TIL/blob/master/django/cbv.md) : class  based view, generic.views, loginRequiredMixin, get_absolute_url 등
 
