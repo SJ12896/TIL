@@ -381,6 +381,8 @@
 
 135. [15900_나무 탈출](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/15900.md)
 
+136. [12015_가장 긴 증가하는 부분 수열 2](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/12015.md)🤔
+
       
 
 <br/>
