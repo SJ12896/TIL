@@ -185,8 +185,6 @@
 
 37. [2798_블랙잭](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2798.md) 
 
-38. [1937_욕심쟁이 판다](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1937.md)  😥 🤮
-
 39. [5014_스타트링크](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/5014.md)  😥
 
 40. [2589_보물섬](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2589.md) 
@@ -382,6 +380,10 @@
 135. [15900_나무 탈출](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/15900.md)
 
 136. [12015_가장 긴 증가하는 부분 수열 2](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/12015.md)🤔
+
+136. [16234_인구 이동](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/16234.md)🤔
+
+137. [1937_욕심쟁이 판다](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1937.md)  🤔😥 
 
       
 
