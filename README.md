@@ -76,6 +76,7 @@
 #### 5. Vue.js
 
 1. [기초 vue](https://github.com/SJ12896/TIL/blob/master/vue/0506.md) : SPA, CSR, Basic syntax
+2. [기초 vue2](https://github.com/SJ12896/TIL/blob/master/vue/0510.md) : Component, Vue CLI, NPM, Vue Router
 
 <br>
 
