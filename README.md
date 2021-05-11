@@ -77,6 +77,7 @@
 
 1. [기초 vue](https://github.com/SJ12896/TIL/blob/master/vue/0506.md) : SPA, CSR, Basic syntax
 2. [기초 vue2](https://github.com/SJ12896/TIL/blob/master/vue/0510.md) : Component, Vue CLI, NPM, Vue Router
+3. [Component 실습](https://github.com/SJ12896/TIL/blob/master/vue/0511.md) : YouTube API를 사용해 동영상 가져오기, 리스트 / 아이템 / 영상세부 등으로 구성된 페이지 만들기
 
 <br>
 

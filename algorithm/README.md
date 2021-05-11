@@ -387,6 +387,10 @@
 
 138. [2156_포도주 시식](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2156.md)  🤔
 
+139. [1520_내리막 길](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1520.md)  🤔
+
+140. [1966_프린터 큐](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1966.md)  
+
       
 
 <br/>
