@@ -70,6 +70,7 @@
 1. [기초 javascript](https://github.com/SJ12896/TIL/blob/master/js/0428.md) : DOM, Event, let, const, var 등
 2. [기초 javascript2](https://github.com/SJ12896/TIL/blob/master/js/0429.md) : 타입과 연산자, 조건문과 반복문, 함수, 배열, 객체 등
 3. [AJAX](https://github.com/SJ12896/TIL/blob/master/js/0503.md) : AJAX, Promise, Axios
+4. [그 외](https://github.com/SJ12896/TIL/blob/master/js/0512.md) : 전개 구문, 구조 분해 할당
 
 <br/>
 
@@ -77,7 +78,8 @@
 
 1. [기초 vue](https://github.com/SJ12896/TIL/blob/master/vue/0506.md) : SPA, CSR, Basic syntax
 2. [기초 vue2](https://github.com/SJ12896/TIL/blob/master/vue/0510.md) : Component, Vue CLI, NPM, Vue Router
-3. [Component 실습](https://github.com/SJ12896/TIL/blob/master/vue/0511.md) : YouTube API를 사용해 동영상 가져오기, 리스트 / 아이템 / 영상세부 등으로 구성된 페이지 만들기
+3. [Component 실습](https://github.com/SJ12896/TIL/blob/master/vue/0511.md) : YouTube API를 사용해 동영상 가져오기, 리스트 / 아이템 / 영상세부 등으로 구성된 페이지 만들기 / pass props % emit events
+4. [Vuex & TodoList](https://github.com/SJ12896/TIL/blob/master/vue/0512.md) : Vuex (state, mutations, actions, getters, modules), TodoList만들기 실습(컴포넌트 바인딩 헬퍼)
 
 <br>
 

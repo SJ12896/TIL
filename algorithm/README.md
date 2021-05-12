@@ -391,6 +391,10 @@
 
 140. [1966_프린터 큐](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1966.md)  
 
+141. [1747_소수&팰린드롬](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1747.md)  
+
+142. [1715_카드 정렬하기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1715.md) 🤔
+
       
 
 <br/>
