@@ -395,6 +395,8 @@
 
 142. [1715_카드 정렬하기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1715.md) 🤔
 
+143. [1976_여행 가자](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1976.md) 
+
       
 
 <br/>
