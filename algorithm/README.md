@@ -397,6 +397,10 @@
 
 143. [1976_여행 가자](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1976.md) 
 
+144. [7795_먹을 것인가 먹힐 것인가](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/7795.md) 
+
+145. [13913_숨바꼭질 4](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/13913.md) 
+
       
 
 <br/>
