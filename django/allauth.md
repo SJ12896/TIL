@@ -54,6 +54,7 @@
 accounts/views.py
 
 - 발급받은 REST_API_KEY와 사이트에 등록한 REDIRECT_URI를 통해 인가 코드를 요청한다. 사용자가 동의했을 시 REDIRECT_URI에 인가 코드가 붙어 온다.
+- REDIRECT_URI : 카카오 서버 -> REDIRECT URI로 로그인 인증 정보 보냄 -> 서비스에서 로그인 인증 정보 처리하고 다음 단계
 
 ```python
 @require_safe
@@ -99,34 +100,43 @@ def kakao_callback(request):
 
 accounts/views.py
 
-- 액세스 토큰 사용
+- 액세스 토큰 사용, 탈퇴와 로그아웃 기능을 위해 세션에 저장한다.
 - 이 후 받아온 사용자 값의 id가 나의 User db에 존재한다면 바로 로그인, 아니라면 User db에 등록하는 절차를 거친다. 이 부분에서 password가 아예 존재하지 않는데 어떻게 해야할지 고민했는데 django의 User 메서드에 `set_unusable_password`가 존재했다. 신기했다. 이 메서드를 사용하면 check_password는 False값만 나온다고 한다.
 - 이후 login 부부에서 또 에러가 계속 생겼는데 multiple authentication backends configured and therefore must provide the `backend` argument or set the `backend` attribute on the user 
 - django-allauth Installation 부분에서 settings.py에 AUTHENTICATION_BACKENDS 값을 2개로 설정했기 때문에 생긴일이다. 일반 로그인 backend를 사용할 거라서 명시해준다.
 
 ```python
 def kakao_callback(request):
-    ...
-    ACCESS_TOKEN = token_request_json['access_token']
-    
-    profile_request = requests.post(
-            "https://kapi.kakao.com/v2/user/me",
-            headers={"Authorization": f"Bearer {ACCESS_TOKEN}"},
-        )
+     if not request.user.is_authenticated:
+        REDIRECT_URI = 'http://localhost:8000/accounts/kakao/login/callback/'
+        code = request.GET.get('code')
+            
+        data = {'grant_type' : 'authorization_code', 'client_id' : REST_API_KEY, 'redirect_uri' : REDIRECT_URI, 'code' : code }
+        
+        token_request = requests.post('https://kauth.kakao.com/oauth/token', data=data)
+        token_request_json = token_request.json()  
+        ACCESS_TOKEN = token_request_json['access_token']
 
-    profile_request_json = profile_request.json()
-    
-    if not User.objects.filter(username=profile_request_json['id']).exists():
-        user = User(
-            username=profile_request_json['id'], 
-            first_name=profile_request_json['properties']['nickname'], 
+        profile_request = requests.post(
+                "https://kapi.kakao.com/v2/user/me",
+                headers={"Authorization": f"Bearer {ACCESS_TOKEN}"},
             )
-        user.set_unusable_password()
-        user.save()
-    else:
-        user = User.objects.get(username=profile_request_json['id'])
-    login(request, user, backend='django.contrib.auth.backends.ModelBackend')
 
-    return redirect('pages:index')
+        profile_request_json = profile_request.json()
+
+        if not User.objects.filter(username=profile_request_json['id']).exists():
+            user = User(
+                username=profile_request_json['id'], 
+                name=profile_request_json['properties']['nickname'],
+                type='kakao', # user databse에 어떤 소셜 사이트로 로그인했는지 기록한다.
+                )
+            user.set_unusable_password()
+            user.save()
+        else:
+            user = User.objects.get(username=profile_request_json['id'])
+        request.session['ACCESS_TOKEN'] = ACCESS_TOKEN 
+        login(request, user, backend='django.contrib.auth.backends.ModelBackend')
+        return redirect('pages:index')
+    return HttpResponseForbidden()
 ```
 

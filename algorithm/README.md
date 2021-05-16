@@ -405,6 +405,10 @@
 
 147. [4485_녹색 옷 입은 애가 젤다지?](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/4485.md) 
 
+148. [12904_A와 B](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/12904.md) 
+
+149. [12851_숨바꼭질 2](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/12851.md) 
+
       
 
 <br/>
