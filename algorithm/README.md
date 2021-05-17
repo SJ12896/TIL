@@ -409,6 +409,8 @@
 
 149. [12851_숨바꼭질 2](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/12851.md) 
 
+150. [6497_전력난](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/6497.md) 
+
       
 
 <br/>
