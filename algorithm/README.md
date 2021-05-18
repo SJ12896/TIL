@@ -411,6 +411,8 @@
 
 150. [6497_전력난](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/6497.md) 
 
+151. [14719_빗물](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/14719.md) 🤔
+
       
 
 <br/>
