@@ -413,6 +413,8 @@
 
 151. [14719_빗물](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/14719.md) 🤔
 
+152. [11779_최소비용 구하기2](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11779.md) 🤔
+
       
 
 <br/>
