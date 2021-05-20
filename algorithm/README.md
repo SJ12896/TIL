@@ -415,6 +415,8 @@
 
 152. [11779_최소비용 구하기2](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11779.md) 🤔
 
+153. [2023_신기한 소수](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2023.md) 
+
       
 
 <br/>
