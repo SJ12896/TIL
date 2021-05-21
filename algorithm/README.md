@@ -417,6 +417,8 @@
 
 153. [2023_신기한 소수](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2023.md) 
 
+154. [1238_파티](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1238.md) 
+
       
 
 <br/>
