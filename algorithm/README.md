@@ -419,6 +419,8 @@
 
 154. [1238_파티](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1238.md) 
 
+155. [18428_감시 피하기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/18428.md) 
+
       
 
 <br/>
