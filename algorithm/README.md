@@ -421,6 +421,8 @@
 
 155. [18428_감시 피하기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/18428.md) 
 
+156. [16562_친구비](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/16562.md) 
+
       
 
 <br/>
