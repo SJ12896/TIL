@@ -427,6 +427,8 @@
 
 158. [1261_알고스팟](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1261.md) 
 
+159. [5582_공통 부분 문자열](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/5582.md) 
+
       
 
 <br/>
@@ -436,6 +438,7 @@
 ### programmers
 
 1. [기능개발](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p1.md) 
+2. [완주하지 못한 선수](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p2.md) 
 
 <br>
 
