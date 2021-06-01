@@ -429,6 +429,8 @@
 
 159. [5582_공통 부분 문자열](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/5582.md) 
 
+160. [1806_부분합](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1806.md) 
+
       
 
 <br/>
@@ -439,6 +441,7 @@
 
 1. [기능개발](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p1.md) 
 2. [완주하지 못한 선수](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p2.md) 
+3. [더 맵게](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p3.md) 
 
 <br>
 
