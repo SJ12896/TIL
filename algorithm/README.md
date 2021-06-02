@@ -431,6 +431,8 @@
 
 160. [1806_부분합](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1806.md) 
 
+161. [9081_단어 맞추기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/9081.md) 🤔
+
       
 
 <br/>
@@ -442,6 +444,7 @@
 1. [기능개발](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p1.md) 
 2. [완주하지 못한 선수](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p2.md) 
 3. [더 맵게](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p3.md) 
+4. [모의고사](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p4.md) 
 
 <br>
 
