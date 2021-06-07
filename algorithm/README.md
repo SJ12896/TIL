@@ -437,6 +437,8 @@
 
 163. [11567_선진이의 겨울 왕국](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/11567.md) 
 
+164. [2458_키 순서](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2458.md) 🤔
+
       
 
 <br/>
@@ -451,6 +453,7 @@
 4. [모의고사](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p4.md) 
 5. [큰 수 만들기](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p5.md) 🤔
 6. [위장](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p6.md) 
+7. [프린터](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p7.md) 
 
 <br>
 
