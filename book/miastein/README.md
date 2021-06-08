@@ -28,6 +28,10 @@ CHAPTER 05. [객체지향 설계](https://github.com/SJ12896/TIL/blob/master/boo
 
 <br/>
 
+CHAPTER 06. [파이썬 고급주제](https://github.com/SJ12896/TIL/blob/master/book/miastein/6.md)
+
+<br/>
+
 CHAPTER 07. [추상 데이터 타입](https://github.com/SJ12896/TIL/blob/master/book/miastein/7.md)
 
 <br/>

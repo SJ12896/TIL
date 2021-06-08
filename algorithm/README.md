@@ -439,6 +439,8 @@
 
 164. [2458_키 순서](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2458.md) 🤔
 
+165. [21937_작업](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/21937.md) 
+
       
 
 <br/>
@@ -454,6 +456,7 @@
 5. [큰 수 만들기](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p5.md) 🤔
 6. [위장](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p6.md) 
 7. [프린터](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p7.md) 
+8. [전화번호 목록](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p8.md) 
 
 <br>
 
