@@ -441,6 +441,8 @@
 
 165. [21937_작업](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/21937.md) 
 
+166. [14497_주난의 난](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/14497.md) 🤔
+
       
 
 <br/>
@@ -457,6 +459,7 @@
 6. [위장](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p6.md) 
 7. [프린터](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p7.md) 
 8. [전화번호 목록](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p8.md) 
+9. [다리를 지나는 트럭](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p9.md) 🤔
 
 <br>
 
