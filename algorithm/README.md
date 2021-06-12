@@ -445,6 +445,8 @@
 
 167. [1743_음식물 피하기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1743.md) 
 
+168. [2565_전깃줄](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2565.md) 🤔
+
       
 
 <br/>
@@ -463,6 +465,7 @@
 8. [전화번호 목록](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p8.md) 
 9. [다리를 지나는 트럭](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p9.md) 🤔
 10. [베스트앨범](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p10.md) 
+11. [주식가격](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p11.md) 
 
 <br>
 
@@ -492,3 +495,4 @@
 #### 수업 외
 
 - [Next Permutation Algorithm](https://github.com/SJ12896/TIL/blob/master/algorithm/Next_Permutation_Algorithm.md)
+- [Longest_Increasing_Subsequence](https://github.com/SJ12896/TIL/blob/master/algorithm/Longest_Increasing_Subsequence.md)
