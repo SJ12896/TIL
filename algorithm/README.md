@@ -447,6 +447,8 @@
 
 168. [2565_전깃줄](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2565.md) 🤔
 
+169. [14567_선수과목](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/14567.md) 🤔
+
       
 
 <br/>
@@ -466,6 +468,7 @@
 9. [다리를 지나는 트럭](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p9.md) 🤔
 10. [베스트앨범](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p10.md) 
 11. [주식가격](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p11.md) 
+12. [디스크 컨트롤러](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p12.md) 🤔
 
 <br>
 
@@ -496,3 +499,4 @@
 
 - [Next Permutation Algorithm](https://github.com/SJ12896/TIL/blob/master/algorithm/Next_Permutation_Algorithm.md)
 - [Longest_Increasing_Subsequence](https://github.com/SJ12896/TIL/blob/master/algorithm/Longest_Increasing_Subsequence.md)
+- [Topological Sort](https://github.com/SJ12896/TIL/blob/master/algorithm/Topological_Sortmd)
