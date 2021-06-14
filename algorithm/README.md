@@ -449,6 +449,8 @@
 
 169. [14567_선수과목](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/14567.md) 🤔
 
+170. [2056_작업](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2056.md) 
+
       
 
 <br/>
@@ -469,6 +471,7 @@
 10. [베스트앨범](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p10.md) 
 11. [주식가격](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p11.md) 
 12. [디스크 컨트롤러](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p12.md) 🤔
+13. [이중우선순위큐](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p13.md) 
 
 <br>
 
