@@ -451,6 +451,8 @@
 
 170. [2056_작업](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2056.md) 
 
+171. [1516_게임 개발](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1516.md) 
+
       
 
 <br/>
@@ -472,6 +474,7 @@
 11. [주식가격](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p11.md) 
 12. [디스크 컨트롤러](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p12.md) 🤔
 13. [이중우선순위큐](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p13.md) 
+14. [카펫](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p14.md) 
 
 <br>
 
