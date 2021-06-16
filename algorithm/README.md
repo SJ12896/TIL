@@ -453,6 +453,8 @@
 
 171. [1516_게임 개발](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/1516.md) 
 
+172. [2252_줄 세우기](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/2252.md) 
+
       
 
 <br/>
@@ -475,6 +477,7 @@
 12. [디스크 컨트롤러](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p12.md) 🤔
 13. [이중우선순위큐](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p13.md) 
 14. [카펫](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p14.md) 
+15. [소수 찾기](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p15.md) 
 
 <br>
 
