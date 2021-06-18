@@ -457,6 +457,8 @@
 
 173. [12761_돌다리](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/12761.md) 
 
+174. [17953_디저트](https://github.com/SJ12896/TIL/blob/master/algorithm/beckjoon/17953.md) 
+
       
 
 <br/>
@@ -481,6 +483,7 @@
 14. [카펫](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p14.md) 
 15. [소수 찾기](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p15.md) 
 16. [체육복](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p16.md) 
+17. [구명보트](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p17.md) 
 
 <br>
 
