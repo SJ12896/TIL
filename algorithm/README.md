@@ -484,6 +484,7 @@
 15. [소수 찾기](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p15.md) 
 16. [체육복](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p16.md) 
 17. [구명보트](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p17.md) 
+18. [정수 삼각형](https://github.com/SJ12896/TIL/blob/master/algorithm/programmers/p18.md) 
 
 <br>
 
