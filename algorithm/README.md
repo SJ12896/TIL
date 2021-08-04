@@ -2,6 +2,10 @@
 
 <br/>
 
+이 후에는 algorithm_ps respository에서 풀었음
+
+<br/>
+
 ### SW Expert
 
 1. [Baby-gin game](https://github.com/SJ12896/TIL/blob/master/algorithm/swexpert/Bayby-gin%20Game.md)
