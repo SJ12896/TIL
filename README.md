@@ -100,6 +100,7 @@
 
 1. [파이썬 자료구조와 알고리즘 - 미아 스타인](https://github.com/SJ12896/TIL/blob/master/book/miastein/README.md)
 2. [모던 자바스크립트 핵심 가이드 - 알베르토 몬탈레시](https://github.com/SJ12896/TIL/blob/master/book/modernjs.md)
+3. [자바스크립트 코딩의 기술 - 조 모건](https://github.com/SJ12896/TIL/blob/master/book/js2.md)
 
 
 
